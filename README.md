@@ -17,7 +17,7 @@ code.
 
 |S.no|Date|File name|Topic|Link|
 |:----:|:----:|:---:|:----:|:----:|
-|CAC-2.|24-10-23|CAC-02|Flover hub.|[CAC02](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/0da122e353a67ded89f68fc2259641598b90db2d/CAC-2/cacTwo.ipynb)|
+|CAC-2.|24-10-23|CAC-02|Flover hub.|[CAC02](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/0da122e353a67ded89f68fc2259641598b90db2d/CAC2/cacTwo.ipynb)|
 |1.|23-08-23|lab01|Write a program to enter name and push it to github.|[Lab-01](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/627e3dd6ce39e5939028f6079c5086a87402c0fc/Lab%2001.ipynb)|
 |2.|28-08-23|lab02|The Name Collector's Quest with the Problems Associated with it.|[Lab-02](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/627e3dd6ce39e5939028f6079c5086a87402c0fc/Lab%2002.ipynb)|
 |3.|31-08-23|lab03|The Tale of Numbers' Harmony with the Problems Associated with it.|[Lab-03](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/627e3dd6ce39e5939028f6079c5086a87402c0fc/Lab%2003.ipynb)|
