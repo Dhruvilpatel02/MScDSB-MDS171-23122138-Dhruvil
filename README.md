@@ -17,7 +17,7 @@ code.
 
 |S.no|Date|File name|Topic|Link|
 |:----:|:----:|:---:|:----:|:----:|
-|CAC-1.|24-10-23|CAC-02|Flover hub.|[CAC01](https://github.com/mubashirsalim88/MScDSB-MDS171-23122124-Mubashir-Salim/blob/9a4a6ed10132954c024a9079bbe65eeac3f5f234/CAC/CAC%20-%201/test.ipynb)|
+|CAC-1.|24-10-23|CAC-01|Flover hub.|[CAC01](https://github.com/mubashirsalim88/MScDSB-MDS171-23122124-Mubashir-Salim/blob/9a4a6ed10132954c024a9079bbe65eeac3f5f234/CAC/CAC%20-%201/test.ipynb)|
 |CAC-2.|24-10-23|CAC-02|Flover hub.|[CAC02](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/0da122e353a67ded89f68fc2259641598b90db2d/CAC2/cacTwo.ipynb)|
 |1.|23-08-23|lab01|Write a program to enter name and push it to github.|[Lab01](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/627e3dd6ce39e5939028f6079c5086a87402c0fc/Lab%2001.ipynb)|
 |2.|28-08-23|lab02|The Name Collector's Quest with the Problems Associated with it.|[Lab02](https://github.com/Dhruvilpatel02/MScDSB-MDS171-23122138-Dhruvil/blob/627e3dd6ce39e5939028f6079c5086a87402c0fc/Lab%2002.ipynb)|
