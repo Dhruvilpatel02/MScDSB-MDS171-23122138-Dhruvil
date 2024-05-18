@@ -1,0 +1,2000 @@
+index,City,Date,Card Type,Exp Type,Gender,Amount
+1,"Bengaluru, India",04-Jan-15,Platinum,Fuel,M,283274
+2,"Bengaluru, India",17-Jan-14,Signature,Entertainment,F,25524
+3,"Greater Mumbai, India",05-Sep-14,Platinum,Food,F,141963
+4,"Greater Mumbai, India",23-Aug-14,Gold,Fuel,F,226297
+5,"Bengaluru, India",19-Jan-14,Platinum,Fuel,F,165694
+6,"Greater Mumbai, India",09-Jun-14,Platinum,Food,F,1966
+7,"Ahmedabad, India",25-Sep-14,Signature,Bills,M,228080
+8,"Greater Mumbai, India",23-Nov-13,Gold,Food,M,107490
+9,"Greater Mumbai, India",28-Nov-14,Signature,Entertainment,M,154713
+10,"Ahmedabad, India",17-Mar-14,Platinum,Fuel,F,144488
+11,"Bengaluru, India",16-Nov-13,Silver,Fuel,M,84568
+12,"Delhi, India",19-Apr-14,Silver,Fuel,F,255257
+13,"Greater Mumbai, India",01-Oct-14,Signature,Bills,M,220351
+14,"Greater Mumbai, India",07-Dec-14,Platinum,Grocery,M,214808
+15,"Bengaluru, India",24-Jan-14,Platinum,Fuel,M,175504
+16,"Greater Mumbai, India",24-Jul-14,Signature,Food,F,149784
+17,"Delhi, India",15-Mar-15,Signature,Grocery,M,195264
+18,"Greater Mumbai, India",28-Mar-14,Gold,Bills,F,183737
+19,"Delhi, India",24-Mar-14,Platinum,Food,M,22272
+20,"Ahmedabad, India",18-Jan-15,Signature,Food,F,9221
+21,"Greater Mumbai, India",10-Sep-14,Signature,Bills,M,137812
+22,"Ahmedabad, India",10-May-15,Signature,Food,F,233193
+23,"Ahmedabad, India",28-Nov-13,Platinum,Food,F,234574
+24,"Ahmedabad, India",29-Mar-14,Silver,Fuel,M,112593
+25,"Delhi, India",04-Apr-15,Silver,Food,F,182034
+26,"Bengaluru, India",01-Feb-15,Platinum,Bills,F,133907
+27,"Delhi, India",30-Dec-14,Platinum,Bills,M,68778
+28,"Greater Mumbai, India",15-Dec-13,Platinum,Bills,M,24771
+29,"Ahmedabad, India",16-May-15,Silver,Fuel,M,119325
+30,"Ahmedabad, India",09-Jun-14,Signature,Grocery,M,100134
+31,"Greater Mumbai, India",06-Oct-14,Silver,Entertainment,M,59616
+32,"Ahmedabad, India",14-Oct-14,Silver,Entertainment,M,179223
+33,"Delhi, India",23-Oct-14,Platinum,Grocery,M,148288
+34,"Ahmedabad, India",23-Nov-13,Signature,Fuel,F,125677
+35,"Bengaluru, India",26-Aug-14,Platinum,Grocery,F,203670
+36,"Delhi, India",23-Apr-14,Platinum,Entertainment,M,120646
+37,"Greater Mumbai, India",25-Feb-15,Signature,Entertainment,F,124932
+38,"Greater Mumbai, India",22-Jun-14,Platinum,Grocery,F,239114
+39,"Bengaluru, India",17-Aug-14,Gold,Bills,F,40911
+40,"Bengaluru, India",11-Sep-14,Platinum,Entertainment,F,230605
+41,"Delhi, India",03-Dec-13,Signature,Fuel,F,225731
+42,"Greater Mumbai, India",09-May-14,Gold,Fuel,M,255499
+43,"Bengaluru, India",12-Sep-14,Platinum,Food,M,203817
+44,"Delhi, India",17-Oct-13,Signature,Bills,F,25281
+45,"Greater Mumbai, India",21-Dec-13,Platinum,Food,M,208068
+46,"Ahmedabad, India",12-Mar-15,Platinum,Fuel,M,128753
+47,"Greater Mumbai, India",08-Oct-14,Signature,Fuel,F,131605
+48,"Ahmedabad, India",28-Oct-14,Gold,Bills,M,151958
+49,"Delhi, India",29-Oct-14,Gold,Fuel,F,62399
+50,"Delhi, India",22-Jul-14,Gold,Fuel,F,275065
+51,"Greater Mumbai, India",03-Nov-14,Silver,Entertainment,F,91442
+52,"Greater Mumbai, India",19-Feb-14,Signature,Grocery,M,225093
+53,"Greater Mumbai, India",13-Oct-14,Signature,Grocery,M,166982
+54,"Ahmedabad, India",11-Jan-14,Platinum,Fuel,F,30298
+55,"Ahmedabad, India",12-Nov-14,Silver,Fuel,M,208002
+56,"Delhi, India",25-Mar-15,Silver,Entertainment,F,172521
+57,"Delhi, India",01-Apr-14,Silver,Food,F,283839
+58,"Greater Mumbai, India",15-Dec-14,Gold,Bills,M,19803
+59,"Ahmedabad, India",18-Dec-13,Platinum,Grocery,F,160168
+60,"Bengaluru, India",05-Mar-14,Signature,Entertainment,M,274671
+61,"Bengaluru, India",29-Jan-15,Silver,Fuel,M,38799
+62,"Ahmedabad, India",23-Mar-14,Gold,Food,M,45898
+63,"Greater Mumbai, India",24-Jan-15,Gold,Food,M,226160
+64,"Greater Mumbai, India",13-Feb-15,Gold,Fuel,M,186661
+65,"Greater Mumbai, India",26-Feb-15,Silver,Grocery,F,253728
+66,"Delhi, India",01-Oct-14,Silver,Entertainment,F,39663
+67,"Delhi, India",11-Apr-14,Signature,Bills,M,239053
+68,"Delhi, India",14-May-15,Silver,Fuel,F,232025
+69,"Delhi, India",05-Jan-15,Silver,Food,M,73097
+70,"Delhi, India",16-Mar-15,Platinum,Entertainment,F,63773
+71,"Bengaluru, India",08-Mar-14,Gold,Fuel,M,37639
+72,"Delhi, India",03-Jul-14,Gold,Bills,F,110961
+73,"Ahmedabad, India",12-Nov-14,Signature,Food,F,96108
+74,"Bengaluru, India",22-Aug-14,Signature,Bills,M,66802
+75,"Delhi, India",16-Jan-14,Signature,Grocery,M,286448
+76,"Greater Mumbai, India",20-Nov-13,Signature,Bills,M,43856
+77,"Greater Mumbai, India",18-Jul-14,Gold,Food,M,165381
+78,"Delhi, India",31-Dec-14,Silver,Entertainment,F,120529
+79,"Bengaluru, India",22-Feb-14,Gold,Food,F,165549
+80,"Ahmedabad, India",30-Oct-13,Gold,Entertainment,M,84219
+81,"Ahmedabad, India",18-Oct-14,Silver,Bills,F,103460
+82,"Ahmedabad, India",30-Nov-14,Silver,Food,F,72730
+83,"Delhi, India",10-Mar-14,Platinum,Grocery,F,93003
+84,"Bengaluru, India",07-Aug-14,Gold,Bills,F,23154
+85,"Ahmedabad, India",02-May-15,Silver,Grocery,F,142809
+86,"Delhi, India",18-May-14,Signature,Entertainment,M,19082
+87,"Delhi, India",18-Mar-14,Gold,Fuel,M,16252
+88,"Bengaluru, India",02-Apr-14,Silver,Food,M,120587
+89,"Ahmedabad, India",25-Nov-14,Signature,Bills,F,95881
+90,"Ahmedabad, India",27-Jan-15,Gold,Food,F,21963
+91,"Ahmedabad, India",24-Mar-14,Platinum,Bills,M,205480
+92,"Bengaluru, India",18-Sep-14,Gold,Entertainment,F,21229
+93,"Greater Mumbai, India",02-Apr-15,Signature,Grocery,M,274555
+94,"Greater Mumbai, India",04-Jan-15,Signature,Entertainment,M,49357
+95,"Ahmedabad, India",06-Feb-14,Silver,Grocery,F,248024
+96,"Delhi, India",16-Nov-14,Platinum,Grocery,M,151811
+97,"Greater Mumbai, India",23-Dec-13,Signature,Bills,M,45077
+98,"Delhi, India",30-Aug-14,Silver,Food,F,42491
+99,"Ahmedabad, India",22-Dec-14,Silver,Fuel,M,285009
+100,"Delhi, India",20-Mar-14,Signature,Fuel,F,18267
+101,"Greater Mumbai, India",12-Nov-14,Gold,Entertainment,F,180887
+102,"Delhi, India",09-Feb-14,Signature,Fuel,M,154424
+103,"Delhi, India",23-Mar-14,Silver,Bills,F,19723
+104,"Bengaluru, India",29-Sep-14,Platinum,Grocery,M,299353
+105,"Greater Mumbai, India",08-Sep-14,Platinum,Bills,M,113388
+106,"Delhi, India",20-Mar-15,Silver,Bills,F,26143
+107,"Delhi, India",22-Oct-13,Silver,Bills,F,204049
+108,"Delhi, India",13-Oct-14,Platinum,Fuel,F,189997
+109,"Bengaluru, India",24-Feb-14,Platinum,Food,M,250037
+110,"Greater Mumbai, India",10-Nov-14,Silver,Bills,M,30164
+111,"Delhi, India",17-Apr-15,Gold,Bills,M,191041
+112,"Greater Mumbai, India",23-Jan-15,Silver,Food,M,9931
+113,"Ahmedabad, India",11-Jan-14,Signature,Food,F,252301
+114,"Delhi, India",19-Feb-14,Gold,Bills,F,96292
+115,"Ahmedabad, India",03-Sep-14,Gold,Grocery,F,213280
+116,"Bengaluru, India",02-Feb-14,Gold,Food,M,233265
+117,"Delhi, India",06-May-14,Silver,Bills,M,193638
+118,"Delhi, India",24-Jan-14,Platinum,Bills,F,251574
+119,"Ahmedabad, India",12-Dec-14,Platinum,Fuel,M,214703
+120,"Delhi, India",13-Nov-13,Signature,Entertainment,M,8641
+121,"Delhi, India",30-Dec-13,Gold,Bills,F,277611
+122,"Bengaluru, India",04-Apr-15,Signature,Entertainment,M,12734
+123,"Bengaluru, India",01-May-15,Gold,Bills,F,21579
+124,"Ahmedabad, India",11-Feb-14,Silver,Fuel,F,16208
+125,"Ahmedabad, India",25-Apr-14,Gold,Food,M,80443
+126,"Bengaluru, India",03-Mar-15,Platinum,Fuel,F,296406
+127,"Greater Mumbai, India",13-Nov-13,Platinum,Fuel,M,83674
+128,"Ahmedabad, India",09-May-14,Platinum,Bills,F,145531
+129,"Delhi, India",20-Jul-14,Silver,Entertainment,M,193593
+130,"Ahmedabad, India",11-Sep-14,Signature,Food,M,232555
+131,"Ahmedabad, India",23-Oct-14,Platinum,Fuel,F,82572
+132,"Delhi, India",11-Feb-15,Gold,Fuel,F,88505
+133,"Ahmedabad, India",14-Aug-14,Signature,Entertainment,M,101434
+134,"Delhi, India",26-May-14,Gold,Fuel,M,11318
+135,"Ahmedabad, India",03-Jun-14,Signature,Food,M,35507
+136,"Delhi, India",13-Mar-15,Gold,Bills,F,11945
+137,"Delhi, India",22-Oct-14,Signature,Bills,M,188562
+138,"Greater Mumbai, India",18-Oct-13,Platinum,Grocery,F,149560
+139,"Ahmedabad, India",26-Jul-14,Silver,Bills,M,178276
+140,"Delhi, India",25-Aug-14,Signature,Entertainment,M,24436
+141,"Ahmedabad, India",02-Dec-14,Platinum,Grocery,F,167904
+142,"Delhi, India",02-Nov-13,Gold,Grocery,F,173556
+143,"Greater Mumbai, India",10-Aug-14,Platinum,Bills,F,229546
+144,"Delhi, India",15-Aug-14,Gold,Food,F,279576
+145,"Delhi, India",08-Jun-14,Platinum,Grocery,F,96395
+146,"Delhi, India",03-May-14,Gold,Entertainment,F,57028
+147,"Bengaluru, India",16-Jan-14,Signature,Grocery,F,156031
+148,"Ahmedabad, India",12-May-14,Silver,Food,F,33363
+149,"Bengaluru, India",06-Jan-14,Platinum,Fuel,F,179027
+150,"Ahmedabad, India",26-Mar-15,Signature,Entertainment,M,40220
+151,"Greater Mumbai, India",28-Mar-14,Signature,Grocery,F,44422
+152,"Bengaluru, India",07-Feb-15,Platinum,Food,F,256189
+153,"Bengaluru, India",03-Mar-15,Signature,Bills,M,274863
+154,"Bengaluru, India",04-Aug-14,Signature,Grocery,F,82526
+155,"Bengaluru, India",26-Nov-14,Silver,Fuel,M,125475
+156,"Ahmedabad, India",06-Apr-14,Gold,Entertainment,M,250428
+157,"Bengaluru, India",13-Sep-14,Platinum,Fuel,F,52304
+158,"Greater Mumbai, India",31-Oct-14,Gold,Food,F,222759
+159,"Ahmedabad, India",26-Nov-14,Signature,Bills,M,133224
+160,"Bengaluru, India",10-Jan-14,Gold,Bills,M,44031
+161,"Greater Mumbai, India",24-Feb-15,Platinum,Entertainment,M,236139
+162,"Bengaluru, India",28-Mar-15,Silver,Grocery,F,53816
+163,"Delhi, India",06-Feb-14,Silver,Food,F,142263
+164,"Bengaluru, India",17-Nov-14,Silver,Food,F,253881
+165,"Bengaluru, India",28-May-14,Gold,Food,M,270737
+166,"Greater Mumbai, India",26-Feb-15,Signature,Bills,M,103641
+167,"Ahmedabad, India",26-Jul-14,Signature,Fuel,M,272255
+168,"Ahmedabad, India",05-Sep-14,Silver,Food,M,197183
+169,"Greater Mumbai, India",21-Oct-14,Signature,Bills,F,91147
+170,"Greater Mumbai, India",12-Oct-14,Signature,Grocery,M,77964
+171,"Greater Mumbai, India",25-Jan-14,Silver,Entertainment,F,30149
+172,"Delhi, India",17-Jun-14,Signature,Bills,F,39804
+173,"Bengaluru, India",17-Oct-13,Signature,Grocery,F,70762
+174,"Bengaluru, India",05-Mar-15,Platinum,Bills,M,205291
+175,"Greater Mumbai, India",18-Oct-14,Silver,Bills,M,87996
+176,"Greater Mumbai, India",18-Jan-15,Signature,Grocery,F,141643
+177,"Ahmedabad, India",19-Dec-13,Silver,Grocery,F,96350
+178,"Bengaluru, India",19-Jul-14,Signature,Bills,F,59595
+179,"Greater Mumbai, India",25-Dec-14,Signature,Food,F,270193
+180,"Delhi, India",24-Dec-14,Signature,Entertainment,M,46115
+181,"Greater Mumbai, India",10-Aug-14,Gold,Bills,M,72408
+182,"Ahmedabad, India",07-Apr-15,Gold,Food,M,22917
+183,"Bengaluru, India",05-Dec-14,Signature,Bills,F,180735
+184,"Bengaluru, India",01-Dec-13,Platinum,Food,F,92433
+185,"Ahmedabad, India",24-Feb-15,Platinum,Food,M,193902
+186,"Bengaluru, India",17-Jan-15,Signature,Entertainment,F,128943
+187,"Delhi, India",17-Jan-15,Platinum,Grocery,F,223347
+188,"Ahmedabad, India",10-Feb-14,Silver,Food,M,120647
+189,"Delhi, India",26-Mar-14,Gold,Grocery,M,219971
+190,"Bengaluru, India",12-May-15,Silver,Food,F,222168
+191,"Greater Mumbai, India",05-Apr-14,Gold,Food,M,161223
+192,"Bengaluru, India",02-Mar-15,Gold,Fuel,F,259131
+193,"Greater Mumbai, India",27-Aug-14,Platinum,Entertainment,F,108870
+194,"Ahmedabad, India",03-Sep-14,Signature,Entertainment,M,163971
+195,"Greater Mumbai, India",17-Aug-14,Gold,Grocery,M,69490
+196,"Ahmedabad, India",24-Oct-14,Platinum,Bills,M,21726
+197,"Ahmedabad, India",29-Oct-13,Platinum,Bills,M,238959
+198,"Delhi, India",29-Jun-14,Silver,Entertainment,F,24796
+199,"Delhi, India",05-Nov-14,Silver,Grocery,F,125995
+200,"Ahmedabad, India",13-Jan-14,Signature,Grocery,M,222708
+201,"Bengaluru, India",27-Oct-14,Platinum,Fuel,F,258206
+202,"Greater Mumbai, India",20-Jul-14,Gold,Entertainment,M,31617
+203,"Ahmedabad, India",15-Sep-14,Gold,Bills,F,75224
+204,"Greater Mumbai, India",23-Oct-14,Signature,Grocery,M,293306
+205,"Bengaluru, India",05-Jun-14,Gold,Entertainment,F,128345
+206,"Bengaluru, India",25-Nov-14,Signature,Bills,F,121847
+207,"Ahmedabad, India",30-Nov-14,Silver,Bills,M,46509
+208,"Bengaluru, India",30-Jan-15,Gold,Fuel,M,108341
+209,"Bengaluru, India",30-Aug-14,Silver,Grocery,F,188556
+210,"Bengaluru, India",11-Mar-15,Silver,Fuel,F,62248
+211,"Bengaluru, India",15-Mar-14,Gold,Entertainment,M,221366
+212,"Delhi, India",04-Jan-15,Gold,Food,F,8707
+213,"Greater Mumbai, India",18-Feb-15,Platinum,Food,M,100596
+214,"Ahmedabad, India",13-Jul-14,Platinum,Food,F,279463
+215,"Greater Mumbai, India",05-Jan-15,Silver,Food,F,273374
+216,"Ahmedabad, India",05-Dec-14,Gold,Fuel,F,56130
+217,"Ahmedabad, India",14-Mar-15,Platinum,Food,M,53631
+218,"Bengaluru, India",10-Dec-13,Gold,Bills,F,97086
+219,"Delhi, India",06-Sep-14,Platinum,Fuel,F,164430
+220,"Delhi, India",26-Nov-13,Gold,Food,F,54070
+221,"Ahmedabad, India",25-Nov-14,Platinum,Food,M,214628
+222,"Delhi, India",11-Nov-14,Gold,Food,F,175562
+223,"Greater Mumbai, India",15-Jun-14,Platinum,Grocery,F,173136
+224,"Greater Mumbai, India",25-Dec-14,Gold,Entertainment,F,55286
+225,"Ahmedabad, India",04-Feb-14,Gold,Entertainment,M,199236
+226,"Greater Mumbai, India",31-Jul-14,Platinum,Entertainment,M,193725
+227,"Bengaluru, India",21-Dec-14,Gold,Fuel,M,253822
+228,"Ahmedabad, India",30-Dec-14,Gold,Bills,F,114593
+229,"Delhi, India",20-Jan-15,Signature,Bills,M,202750
+230,"Delhi, India",30-Mar-14,Signature,Food,M,86613
+231,"Greater Mumbai, India",28-Feb-15,Gold,Food,F,274310
+232,"Ahmedabad, India",08-Mar-14,Signature,Bills,F,38859
+233,"Ahmedabad, India",27-Jul-14,Signature,Fuel,F,47378
+234,"Greater Mumbai, India",28-Nov-13,Platinum,Bills,F,236840
+235,"Ahmedabad, India",30-Mar-14,Platinum,Grocery,M,12774
+236,"Ahmedabad, India",15-Feb-14,Silver,Food,M,298262
+237,"Ahmedabad, India",14-Oct-13,Silver,Grocery,F,221912
+238,"Delhi, India",13-Dec-13,Gold,Fuel,M,217036
+239,"Bengaluru, India",07-Aug-14,Gold,Bills,M,123198
+240,"Greater Mumbai, India",25-Feb-15,Silver,Grocery,F,38401
+241,"Ahmedabad, India",11-Dec-14,Signature,Bills,M,279277
+242,"Bengaluru, India",12-Feb-15,Platinum,Food,M,102382
+243,"Ahmedabad, India",24-Jan-14,Signature,Entertainment,M,74822
+244,"Bengaluru, India",02-Jan-15,Signature,Fuel,M,246675
+245,"Delhi, India",06-Nov-13,Silver,Entertainment,M,108170
+246,"Greater Mumbai, India",26-May-15,Gold,Food,F,112158
+247,"Greater Mumbai, India",10-Feb-15,Gold,Grocery,M,52775
+248,"Ahmedabad, India",19-Oct-13,Signature,Grocery,M,157847
+249,"Delhi, India",31-Jan-14,Gold,Food,M,260042
+250,"Greater Mumbai, India",08-Dec-14,Platinum,Bills,F,127370
+251,"Delhi, India",22-Jun-14,Signature,Entertainment,F,262134
+252,"Greater Mumbai, India",26-Mar-15,Signature,Fuel,M,256228
+253,"Bengaluru, India",20-Oct-13,Silver,Food,M,148421
+254,"Delhi, India",27-Oct-13,Platinum,Fuel,M,282581
+255,"Greater Mumbai, India",28-Nov-13,Gold,Bills,M,214594
+256,"Greater Mumbai, India",21-Aug-14,Signature,Food,M,106325
+257,"Bengaluru, India",11-Feb-15,Signature,Fuel,M,259745
+258,"Bengaluru, India",10-Jan-14,Silver,Food,F,176552
+259,"Bengaluru, India",03-Jan-15,Platinum,Food,M,150464
+260,"Bengaluru, India",28-Apr-15,Gold,Food,F,240838
+261,"Ahmedabad, India",20-Mar-15,Silver,Grocery,F,184375
+262,"Delhi, India",10-Aug-14,Platinum,Fuel,M,157806
+263,"Bengaluru, India",23-Jul-14,Platinum,Bills,F,282936
+264,"Greater Mumbai, India",31-Mar-15,Platinum,Bills,M,197291
+265,"Bengaluru, India",05-Sep-14,Gold,Entertainment,M,25556
+266,"Ahmedabad, India",28-Sep-14,Silver,Fuel,F,238795
+267,"Bengaluru, India",21-Jan-14,Gold,Grocery,M,283336
+268,"Bengaluru, India",17-Jun-14,Signature,Fuel,F,202600
+269,"Delhi, India",10-Nov-13,Gold,Entertainment,F,230422
+270,"Bengaluru, India",31-May-14,Platinum,Food,F,297267
+271,"Delhi, India",17-Feb-14,Silver,Bills,F,60032
+272,"Bengaluru, India",25-Mar-14,Signature,Fuel,M,27769
+273,"Greater Mumbai, India",22-Oct-14,Signature,Grocery,F,98177
+274,"Greater Mumbai, India",20-May-15,Signature,Food,F,130117
+275,"Greater Mumbai, India",06-May-15,Signature,Fuel,M,141847
+276,"Greater Mumbai, India",07-Dec-13,Silver,Grocery,M,79090
+277,"Bengaluru, India",01-Dec-13,Silver,Grocery,F,172917
+278,"Greater Mumbai, India",02-Feb-14,Platinum,Bills,M,6168
+279,"Delhi, India",20-Apr-15,Gold,Bills,M,239918
+280,"Greater Mumbai, India",23-Feb-14,Gold,Grocery,F,66911
+281,"Bengaluru, India",22-Jun-14,Signature,Bills,F,197278
+282,"Ahmedabad, India",05-Jul-14,Gold,Entertainment,M,26320
+283,"Delhi, India",27-Dec-14,Signature,Bills,M,48614
+284,"Delhi, India",21-Jul-14,Silver,Grocery,F,72840
+285,"Bengaluru, India",02-May-15,Gold,Grocery,F,114885
+286,"Greater Mumbai, India",07-May-15,Gold,Bills,F,86243
+287,"Delhi, India",11-Dec-14,Signature,Food,F,165261
+288,"Ahmedabad, India",03-Mar-15,Gold,Bills,M,254282
+289,"Delhi, India",12-Nov-14,Platinum,Food,M,258432
+290,"Greater Mumbai, India",20-Dec-14,Platinum,Bills,F,202942
+291,"Ahmedabad, India",31-Mar-15,Silver,Bills,F,186614
+292,"Greater Mumbai, India",23-Jan-15,Signature,Grocery,M,138009
+293,"Greater Mumbai, India",28-Mar-14,Gold,Food,F,244511
+294,"Ahmedabad, India",10-Aug-14,Silver,Entertainment,F,94085
+295,"Bengaluru, India",26-Mar-15,Gold,Food,M,239629
+296,"Ahmedabad, India",08-Dec-14,Signature,Grocery,M,269760
+297,"Ahmedabad, India",02-Oct-14,Silver,Grocery,M,271662
+298,"Bengaluru, India",09-Aug-14,Gold,Food,F,138684
+299,"Ahmedabad, India",07-Oct-13,Silver,Food,F,85887
+300,"Bengaluru, India",21-Mar-15,Platinum,Bills,F,233960
+301,"Ahmedabad, India",17-Nov-14,Signature,Entertainment,M,48998
+302,"Delhi, India",21-Mar-14,Signature,Bills,M,284405
+303,"Delhi, India",05-May-14,Platinum,Bills,M,50389
+304,"Greater Mumbai, India",05-Apr-14,Platinum,Entertainment,M,27934
+305,"Greater Mumbai, India",17-May-14,Platinum,Bills,F,59791
+306,"Bengaluru, India",12-Oct-14,Gold,Bills,M,181736
+307,"Delhi, India",13-Apr-14,Gold,Bills,F,196017
+308,"Ahmedabad, India",19-Oct-13,Platinum,Food,M,242564
+309,"Greater Mumbai, India",21-Feb-15,Platinum,Food,F,156759
+310,"Bengaluru, India",13-Mar-14,Gold,Grocery,F,98925
+311,"Delhi, India",24-Jan-14,Gold,Fuel,F,91479
+312,"Delhi, India",13-Nov-13,Gold,Food,M,267161
+313,"Ahmedabad, India",09-Jun-14,Gold,Bills,F,181055
+314,"Delhi, India",03-Jun-14,Platinum,Fuel,M,141307
+315,"Ahmedabad, India",07-Apr-15,Silver,Food,F,99582
+316,"Greater Mumbai, India",18-Mar-15,Signature,Fuel,F,291853
+317,"Delhi, India",27-Jan-14,Silver,Entertainment,F,39929
+318,"Ahmedabad, India",07-Apr-15,Signature,Grocery,F,198134
+319,"Delhi, India",03-Apr-14,Silver,Fuel,M,61026
+320,"Bengaluru, India",20-Mar-14,Platinum,Grocery,M,273642
+321,"Greater Mumbai, India",19-Feb-15,Platinum,Entertainment,M,126460
+322,"Greater Mumbai, India",11-Dec-14,Silver,Food,F,97683
+323,"Delhi, India",10-May-14,Gold,Bills,F,253231
+324,"Ahmedabad, India",24-Feb-14,Platinum,Fuel,M,149221
+325,"Delhi, India",04-Nov-14,Gold,Bills,M,195461
+326,"Ahmedabad, India",09-Oct-13,Silver,Grocery,M,64793
+327,"Bengaluru, India",10-Aug-14,Silver,Bills,F,228355
+328,"Bengaluru, India",29-Apr-14,Silver,Fuel,M,110386
+329,"Greater Mumbai, India",01-Nov-14,Gold,Food,M,220508
+330,"Bengaluru, India",18-Aug-14,Platinum,Bills,F,113326
+331,"Greater Mumbai, India",23-Oct-13,Gold,Food,M,113440
+332,"Ahmedabad, India",13-Jun-14,Gold,Bills,F,26379
+333,"Bengaluru, India",15-May-15,Platinum,Food,F,17119
+334,"Bengaluru, India",05-May-15,Silver,Entertainment,F,280425
+335,"Bengaluru, India",21-May-14,Silver,Grocery,M,184874
+336,"Greater Mumbai, India",08-Apr-14,Signature,Bills,F,225791
+337,"Ahmedabad, India",03-Jun-14,Silver,Fuel,M,119983
+338,"Bengaluru, India",05-Feb-14,Silver,Grocery,M,46498
+339,"Delhi, India",15-May-14,Gold,Bills,M,254215
+340,"Greater Mumbai, India",06-Jun-14,Gold,Food,M,49107
+341,"Delhi, India",22-Jan-14,Platinum,Grocery,F,156601
+342,"Delhi, India",08-Oct-14,Platinum,Bills,F,221978
+343,"Bengaluru, India",28-Nov-13,Silver,Grocery,F,141978
+344,"Delhi, India",03-May-15,Gold,Grocery,F,233701
+345,"Ahmedabad, India",29-Jul-14,Gold,Entertainment,F,110597
+346,"Greater Mumbai, India",22-Aug-14,Signature,Bills,F,231346
+347,"Greater Mumbai, India",16-Apr-14,Silver,Bills,M,275685
+348,"Greater Mumbai, India",08-Aug-14,Gold,Bills,M,294619
+349,"Greater Mumbai, India",26-Jan-14,Signature,Grocery,F,122365
+350,"Bengaluru, India",07-Aug-14,Silver,Grocery,M,102668
+351,"Delhi, India",24-Feb-14,Signature,Grocery,F,191962
+352,"Greater Mumbai, India",08-Apr-15,Platinum,Entertainment,M,291078
+353,"Ahmedabad, India",24-Jan-14,Silver,Bills,M,155265
+354,"Greater Mumbai, India",18-Aug-14,Platinum,Bills,M,249645
+355,"Greater Mumbai, India",14-Dec-14,Gold,Food,M,135964
+356,"Ahmedabad, India",13-Mar-14,Silver,Food,M,3644
+357,"Greater Mumbai, India",18-Mar-14,Gold,Entertainment,M,290731
+358,"Delhi, India",10-Apr-14,Gold,Food,M,141932
+359,"Ahmedabad, India",05-May-15,Gold,Food,M,138110
+360,"Bengaluru, India",12-Feb-14,Gold,Fuel,M,206938
+361,"Greater Mumbai, India",21-Sep-14,Gold,Bills,M,173793
+362,"Greater Mumbai, India",03-Jul-14,Signature,Bills,M,20426
+363,"Ahmedabad, India",09-Feb-14,Silver,Food,F,240271
+364,"Greater Mumbai, India",30-May-14,Signature,Fuel,F,39619
+365,"Bengaluru, India",16-Aug-14,Silver,Fuel,M,50043
+366,"Ahmedabad, India",21-Oct-14,Signature,Bills,F,215025
+367,"Bengaluru, India",16-Aug-14,Signature,Fuel,M,203809
+368,"Delhi, India",16-Dec-14,Gold,Fuel,F,144616
+369,"Delhi, India",12-Mar-15,Signature,Food,F,292791
+370,"Ahmedabad, India",01-Aug-14,Platinum,Fuel,M,227665
+371,"Bengaluru, India",07-Feb-15,Signature,Grocery,F,157602
+372,"Ahmedabad, India",21-Jan-14,Gold,Food,M,20723
+373,"Bengaluru, India",26-Apr-14,Signature,Grocery,F,276218
+374,"Delhi, India",11-Dec-14,Signature,Grocery,F,285323
+375,"Bengaluru, India",27-Jul-14,Platinum,Fuel,M,295733
+376,"Bengaluru, India",23-Aug-14,Platinum,Food,M,291844
+377,"Greater Mumbai, India",23-Sep-14,Platinum,Grocery,F,293021
+378,"Delhi, India",05-Dec-13,Silver,Entertainment,F,136898
+379,"Bengaluru, India",26-Sep-14,Platinum,Food,M,20910
+380,"Ahmedabad, India",25-Apr-14,Gold,Fuel,F,293462
+381,"Bengaluru, India",23-Apr-15,Silver,Entertainment,F,88510
+382,"Delhi, India",12-Nov-14,Platinum,Fuel,M,285707
+383,"Bengaluru, India",30-Jan-15,Platinum,Bills,M,73220
+384,"Ahmedabad, India",29-Dec-13,Gold,Bills,M,125001
+385,"Ahmedabad, India",27-Aug-14,Silver,Fuel,M,247200
+386,"Delhi, India",07-Feb-15,Gold,Entertainment,M,114547
+387,"Ahmedabad, India",26-Jan-15,Gold,Fuel,M,292488
+388,"Greater Mumbai, India",09-Jun-14,Gold,Fuel,M,27659
+389,"Greater Mumbai, India",28-Jan-14,Silver,Bills,M,129614
+390,"Delhi, India",12-May-14,Signature,Fuel,F,114333
+391,"Bengaluru, India",14-Dec-14,Signature,Fuel,F,47343
+392,"Greater Mumbai, India",11-Oct-14,Gold,Fuel,F,229813
+393,"Ahmedabad, India",30-Jan-14,Gold,Bills,F,6144
+394,"Delhi, India",26-Feb-14,Silver,Food,M,28970
+395,"Ahmedabad, India",18-Mar-15,Signature,Grocery,F,155813
+396,"Ahmedabad, India",16-Mar-14,Signature,Bills,M,115408
+397,"Greater Mumbai, India",20-Sep-14,Platinum,Bills,F,125785
+398,"Delhi, India",07-Feb-15,Platinum,Food,F,204715
+399,"Greater Mumbai, India",09-Aug-14,Signature,Bills,M,221673
+400,"Ahmedabad, India",27-Jul-14,Silver,Bills,M,172333
+401,"Bengaluru, India",16-Dec-14,Platinum,Bills,F,299969
+402,"Bengaluru, India",18-Mar-15,Silver,Entertainment,F,36040
+403,"Ahmedabad, India",17-Oct-14,Platinum,Bills,M,259541
+404,"Bengaluru, India",09-Apr-14,Gold,Food,F,284892
+405,"Ahmedabad, India",17-Dec-13,Silver,Fuel,M,135177
+406,"Ahmedabad, India",13-Jul-14,Gold,Fuel,F,59198
+407,"Ahmedabad, India",26-Apr-14,Gold,Fuel,M,219063
+408,"Ahmedabad, India",19-Feb-14,Platinum,Bills,M,110893
+409,"Bengaluru, India",14-Nov-14,Signature,Entertainment,M,243580
+410,"Greater Mumbai, India",14-May-15,Platinum,Food,F,35445
+411,"Delhi, India",24-Mar-14,Platinum,Grocery,M,137872
+412,"Bengaluru, India",24-Jan-15,Silver,Grocery,F,269409
+413,"Delhi, India",21-Apr-14,Gold,Fuel,F,218258
+414,"Delhi, India",02-Nov-13,Signature,Entertainment,M,86166
+415,"Greater Mumbai, India",25-Apr-15,Silver,Food,M,6786
+416,"Greater Mumbai, India",22-May-14,Gold,Entertainment,F,92873
+417,"Delhi, India",17-Oct-14,Silver,Grocery,M,115936
+418,"Delhi, India",20-Jan-15,Platinum,Food,M,214543
+419,"Bengaluru, India",07-Mar-15,Signature,Fuel,M,292222
+420,"Ahmedabad, India",01-Sep-14,Platinum,Fuel,M,29328
+421,"Ahmedabad, India",04-Oct-13,Silver,Entertainment,M,296021
+422,"Greater Mumbai, India",11-Feb-14,Platinum,Fuel,M,84036
+423,"Ahmedabad, India",12-Oct-13,Signature,Fuel,F,196562
+424,"Delhi, India",27-Aug-14,Gold,Grocery,M,159088
+425,"Bengaluru, India",23-Oct-13,Gold,Fuel,M,170921
+426,"Bengaluru, India",24-Apr-14,Gold,Food,F,250560
+427,"Greater Mumbai, India",25-Jun-14,Gold,Entertainment,M,120262
+428,"Greater Mumbai, India",18-Nov-14,Silver,Grocery,M,20000
+429,"Greater Mumbai, India",05-Jun-14,Signature,Grocery,F,166341
+430,"Greater Mumbai, India",27-Apr-15,Gold,Fuel,F,201137
+431,"Bengaluru, India",28-May-14,Silver,Entertainment,M,101337
+432,"Bengaluru, India",28-Mar-14,Silver,Entertainment,F,141427
+433,"Ahmedabad, India",02-Feb-14,Platinum,Fuel,F,277563
+434,"Bengaluru, India",04-May-15,Signature,Food,F,38144
+435,"Greater Mumbai, India",24-Feb-15,Gold,Entertainment,F,59033
+436,"Bengaluru, India",06-Dec-14,Gold,Fuel,M,34697
+437,"Greater Mumbai, India",03-Feb-15,Silver,Entertainment,F,114397
+438,"Bengaluru, India",21-Dec-14,Gold,Fuel,M,266951
+439,"Delhi, India",25-May-14,Silver,Fuel,F,208922
+440,"Ahmedabad, India",13-Jun-14,Platinum,Grocery,F,273929
+441,"Greater Mumbai, India",06-Mar-14,Platinum,Food,F,289946
+442,"Greater Mumbai, India",13-May-15,Signature,Fuel,M,45926
+443,"Ahmedabad, India",10-Apr-15,Platinum,Entertainment,F,217602
+444,"Delhi, India",24-Jun-14,Signature,Food,M,270683
+445,"Bengaluru, India",06-May-14,Silver,Food,F,92235
+446,"Delhi, India",01-Dec-14,Signature,Bills,F,274376
+447,"Bengaluru, India",15-May-15,Gold,Fuel,M,182351
+448,"Greater Mumbai, India",06-Apr-15,Signature,Food,F,43181
+449,"Bengaluru, India",27-Apr-15,Silver,Food,F,199911
+450,"Greater Mumbai, India",07-Feb-14,Gold,Bills,M,115458
+451,"Bengaluru, India",09-Oct-14,Silver,Bills,M,199109
+452,"Ahmedabad, India",11-May-15,Platinum,Entertainment,F,268697
+453,"Bengaluru, India",30-Mar-14,Platinum,Bills,F,159494
+454,"Ahmedabad, India",29-Oct-13,Silver,Food,M,272194
+455,"Delhi, India",05-May-15,Silver,Bills,F,188144
+456,"Delhi, India",12-Nov-14,Signature,Bills,F,105512
+457,"Greater Mumbai, India",02-Jul-14,Silver,Grocery,F,172487
+458,"Ahmedabad, India",03-Apr-14,Gold,Entertainment,F,288440
+459,"Greater Mumbai, India",04-Sep-14,Gold,Food,F,212419
+460,"Delhi, India",23-May-15,Gold,Bills,M,81082
+461,"Ahmedabad, India",12-Nov-13,Platinum,Food,M,298215
+462,"Bengaluru, India",18-May-14,Silver,Food,F,42422
+463,"Bengaluru, India",18-Nov-13,Signature,Food,F,35451
+464,"Bengaluru, India",19-Aug-14,Silver,Fuel,F,222804
+465,"Delhi, India",17-Jul-14,Signature,Entertainment,F,222064
+466,"Greater Mumbai, India",05-Feb-14,Gold,Fuel,F,184287
+467,"Greater Mumbai, India",18-Nov-13,Gold,Bills,M,14480
+468,"Ahmedabad, India",26-May-15,Silver,Grocery,M,210509
+469,"Delhi, India",29-Apr-14,Gold,Food,F,263779
+470,"Ahmedabad, India",06-Jun-14,Silver,Fuel,F,57599
+471,"Bengaluru, India",10-Sep-14,Gold,Food,F,52938
+472,"Bengaluru, India",02-May-15,Silver,Food,M,8550
+473,"Bengaluru, India",04-Aug-14,Platinum,Food,F,144684
+474,"Delhi, India",05-Nov-14,Gold,Food,F,126749
+475,"Ahmedabad, India",04-Jan-14,Silver,Grocery,M,33750
+476,"Ahmedabad, India",20-Aug-14,Platinum,Fuel,F,156789
+477,"Ahmedabad, India",22-Apr-15,Signature,Bills,F,56488
+478,"Delhi, India",03-May-15,Gold,Fuel,M,72632
+479,"Ahmedabad, India",27-Jun-14,Platinum,Bills,F,230864
+480,"Bengaluru, India",28-Nov-14,Gold,Bills,F,244527
+481,"Ahmedabad, India",29-Jul-14,Signature,Grocery,M,84127
+482,"Ahmedabad, India",28-Apr-15,Platinum,Bills,M,257106
+483,"Bengaluru, India",23-Dec-13,Gold,Entertainment,M,53807
+484,"Bengaluru, India",18-Feb-14,Platinum,Food,F,222983
+485,"Delhi, India",05-Aug-14,Gold,Bills,F,117773
+486,"Greater Mumbai, India",04-Feb-14,Gold,Bills,F,82228
+487,"Ahmedabad, India",06-Feb-15,Silver,Grocery,M,259217
+488,"Bengaluru, India",19-Jan-15,Gold,Grocery,F,111466
+489,"Delhi, India",21-Mar-14,Platinum,Fuel,M,72498
+490,"Greater Mumbai, India",15-Nov-13,Signature,Grocery,M,139208
+491,"Ahmedabad, India",04-Oct-14,Signature,Food,M,83065
+492,"Bengaluru, India",30-Apr-14,Gold,Grocery,F,199358
+493,"Delhi, India",16-May-15,Signature,Food,F,204733
+494,"Ahmedabad, India",22-Apr-14,Gold,Fuel,M,247108
+495,"Greater Mumbai, India",23-May-15,Platinum,Food,F,149391
+496,"Ahmedabad, India",11-Feb-14,Signature,Bills,F,44641
+497,"Bengaluru, India",15-Jul-14,Platinum,Food,F,74189
+498,"Delhi, India",16-Sep-14,Gold,Grocery,F,160321
+499,"Bengaluru, India",28-Oct-13,Gold,Grocery,M,85470
+500,"Delhi, India",22-Aug-14,Platinum,Bills,M,150388
+501,"Bengaluru, India",08-Jul-14,Platinum,Food,F,85455
+502,"Delhi, India",02-Jun-14,Signature,Fuel,M,44489
+503,"Delhi, India",02-Nov-14,Signature,Bills,M,143046
+504,"Ahmedabad, India",27-Dec-14,Silver,Bills,F,237244
+505,"Ahmedabad, India",06-Mar-15,Gold,Entertainment,F,17453
+506,"Delhi, India",07-Feb-14,Silver,Entertainment,F,11541
+507,"Delhi, India",22-Sep-14,Gold,Grocery,M,118773
+508,"Delhi, India",29-Dec-14,Silver,Grocery,M,40804
+509,"Ahmedabad, India",14-Nov-14,Platinum,Bills,F,110138
+510,"Bengaluru, India",09-May-15,Gold,Food,M,85018
+511,"Bengaluru, India",22-Nov-13,Signature,Entertainment,M,109896
+512,"Greater Mumbai, India",08-Jan-14,Gold,Entertainment,F,221768
+513,"Ahmedabad, India",01-Jun-14,Silver,Bills,M,226969
+514,"Delhi, India",05-Dec-13,Silver,Entertainment,F,278718
+515,"Greater Mumbai, India",19-Oct-13,Silver,Fuel,F,270760
+516,"Bengaluru, India",16-Aug-14,Gold,Grocery,M,15340
+517,"Delhi, India",07-Jan-14,Platinum,Grocery,F,226208
+518,"Delhi, India",07-Jan-14,Silver,Entertainment,M,166765
+519,"Bengaluru, India",20-Jan-14,Gold,Fuel,F,100160
+520,"Delhi, India",23-Feb-15,Silver,Food,F,96891
+521,"Ahmedabad, India",23-Aug-14,Platinum,Entertainment,F,290201
+522,"Greater Mumbai, India",30-Nov-14,Silver,Fuel,F,208597
+523,"Delhi, India",21-Jun-14,Platinum,Grocery,F,265567
+524,"Greater Mumbai, India",18-Aug-14,Silver,Entertainment,F,203407
+525,"Delhi, India",21-Oct-13,Signature,Food,F,143972
+526,"Bengaluru, India",29-Jul-14,Silver,Entertainment,M,5373
+527,"Delhi, India",24-Jan-15,Gold,Entertainment,F,59825
+528,"Delhi, India",13-Aug-14,Silver,Bills,F,136014
+529,"Ahmedabad, India",31-May-14,Silver,Fuel,F,177272
+530,"Greater Mumbai, India",25-May-14,Platinum,Entertainment,M,159020
+531,"Ahmedabad, India",01-Dec-14,Gold,Food,M,220797
+532,"Bengaluru, India",19-Apr-14,Signature,Grocery,F,232986
+533,"Delhi, India",13-Feb-15,Silver,Fuel,M,99901
+534,"Ahmedabad, India",28-Jul-14,Silver,Grocery,F,187319
+535,"Greater Mumbai, India",09-Dec-13,Silver,Bills,F,34856
+536,"Ahmedabad, India",25-May-14,Gold,Entertainment,F,53784
+537,"Greater Mumbai, India",27-Feb-14,Silver,Grocery,M,87432
+538,"Greater Mumbai, India",10-Oct-13,Silver,Fuel,F,244726
+539,"Delhi, India",25-Feb-15,Gold,Grocery,M,180879
+540,"Ahmedabad, India",25-May-15,Gold,Food,M,143599
+541,"Ahmedabad, India",01-May-14,Silver,Fuel,F,140813
+542,"Greater Mumbai, India",17-May-15,Silver,Food,F,105753
+543,"Ahmedabad, India",22-Dec-13,Silver,Fuel,M,57121
+544,"Bengaluru, India",25-Apr-14,Silver,Entertainment,M,135281
+545,"Ahmedabad, India",24-Apr-14,Platinum,Entertainment,M,239899
+546,"Bengaluru, India",29-Jan-15,Platinum,Fuel,F,239058
+547,"Ahmedabad, India",30-Dec-13,Gold,Bills,M,178834
+548,"Greater Mumbai, India",15-Mar-15,Gold,Bills,M,223002
+549,"Bengaluru, India",12-May-15,Signature,Grocery,F,190420
+550,"Delhi, India",08-Oct-14,Gold,Entertainment,F,170075
+551,"Bengaluru, India",21-Apr-14,Signature,Fuel,M,116024
+552,"Delhi, India",14-Mar-14,Gold,Food,F,206341
+553,"Greater Mumbai, India",12-Mar-14,Gold,Fuel,F,244904
+554,"Bengaluru, India",05-Jun-14,Platinum,Grocery,M,75550
+555,"Delhi, India",26-Feb-15,Silver,Grocery,F,291926
+556,"Ahmedabad, India",27-May-14,Gold,Food,F,251297
+557,"Greater Mumbai, India",09-Mar-15,Silver,Entertainment,M,150453
+558,"Bengaluru, India",21-Aug-14,Platinum,Entertainment,F,121630
+559,"Delhi, India",11-Oct-13,Gold,Food,F,49153
+560,"Ahmedabad, India",17-Feb-15,Silver,Grocery,F,25547
+561,"Delhi, India",25-Oct-13,Silver,Grocery,M,247715
+562,"Delhi, India",12-Mar-15,Gold,Food,M,283925
+563,"Delhi, India",12-May-14,Signature,Food,F,281324
+564,"Ahmedabad, India",07-Oct-14,Gold,Food,F,172369
+565,"Bengaluru, India",27-Nov-13,Platinum,Entertainment,M,6969
+566,"Greater Mumbai, India",09-Aug-14,Signature,Grocery,M,107396
+567,"Bengaluru, India",07-Oct-14,Signature,Bills,M,298247
+568,"Ahmedabad, India",28-Dec-14,Platinum,Grocery,F,232599
+569,"Bengaluru, India",14-Mar-15,Silver,Food,M,266944
+570,"Ahmedabad, India",10-Nov-13,Platinum,Fuel,F,55968
+571,"Ahmedabad, India",27-May-14,Gold,Food,F,3832
+572,"Bengaluru, India",14-Dec-13,Silver,Grocery,M,231483
+573,"Bengaluru, India",23-Mar-14,Gold,Food,F,102706
+574,"Greater Mumbai, India",18-Jun-14,Gold,Grocery,F,272277
+575,"Bengaluru, India",10-Nov-13,Platinum,Food,M,3769
+576,"Greater Mumbai, India",15-Apr-14,Platinum,Bills,M,67673
+577,"Ahmedabad, India",24-May-14,Platinum,Bills,M,148125
+578,"Bengaluru, India",27-Nov-14,Signature,Grocery,F,229442
+579,"Greater Mumbai, India",15-May-15,Signature,Fuel,M,106585
+580,"Delhi, India",18-Feb-14,Silver,Fuel,M,208933
+581,"Bengaluru, India",07-May-14,Signature,Bills,M,94789
+582,"Ahmedabad, India",18-Feb-15,Signature,Fuel,F,105041
+583,"Bengaluru, India",28-Jan-14,Platinum,Grocery,M,115229
+584,"Greater Mumbai, India",28-Mar-14,Gold,Bills,F,111084
+585,"Delhi, India",01-Mar-15,Signature,Fuel,M,251018
+586,"Bengaluru, India",16-Jan-15,Gold,Bills,F,233507
+587,"Delhi, India",07-Feb-14,Signature,Grocery,M,175241
+588,"Bengaluru, India",13-Oct-13,Silver,Bills,F,80459
+589,"Delhi, India",22-Apr-14,Signature,Entertainment,F,205139
+590,"Ahmedabad, India",08-Apr-14,Silver,Food,F,163989
+591,"Greater Mumbai, India",18-Apr-14,Signature,Bills,F,69214
+592,"Greater Mumbai, India",20-Nov-14,Silver,Food,F,5569
+593,"Ahmedabad, India",23-Jun-14,Signature,Bills,F,157162
+594,"Delhi, India",08-Apr-14,Platinum,Entertainment,F,169250
+595,"Greater Mumbai, India",05-Jan-15,Silver,Grocery,F,287463
+596,"Greater Mumbai, India",10-Jan-14,Gold,Entertainment,F,220933
+597,"Bengaluru, India",26-May-15,Platinum,Grocery,M,16981
+598,"Delhi, India",16-Feb-15,Silver,Food,M,65058
+599,"Bengaluru, India",26-Sep-14,Silver,Bills,F,180351
+600,"Delhi, India",31-Mar-14,Platinum,Fuel,M,73029
+601,"Delhi, India",11-Feb-15,Platinum,Grocery,F,176845
+602,"Greater Mumbai, India",03-May-15,Platinum,Bills,M,189254
+603,"Greater Mumbai, India",20-Jan-14,Silver,Grocery,F,24818
+604,"Delhi, India",19-Jan-15,Gold,Food,M,103265
+605,"Greater Mumbai, India",30-Apr-14,Gold,Grocery,M,92870
+606,"Delhi, India",20-Nov-13,Gold,Bills,M,96736
+607,"Delhi, India",18-May-15,Signature,Fuel,M,1678
+608,"Delhi, India",25-Mar-15,Signature,Food,F,82236
+609,"Greater Mumbai, India",20-Oct-13,Silver,Fuel,F,267884
+610,"Greater Mumbai, India",27-Mar-14,Silver,Entertainment,M,181120
+611,"Bengaluru, India",10-Oct-14,Signature,Entertainment,M,52713
+612,"Delhi, India",08-May-14,Gold,Bills,F,108664
+613,"Delhi, India",06-Jan-15,Gold,Bills,F,212667
+614,"Greater Mumbai, India",25-May-14,Silver,Fuel,F,120871
+615,"Greater Mumbai, India",02-Jan-14,Signature,Fuel,F,204052
+616,"Greater Mumbai, India",22-Jan-15,Gold,Grocery,F,121304
+617,"Greater Mumbai, India",30-Oct-13,Platinum,Bills,M,292254
+618,"Ahmedabad, India",19-Mar-14,Platinum,Entertainment,M,153381
+619,"Bengaluru, India",13-Nov-13,Platinum,Entertainment,M,135802
+620,"Bengaluru, India",26-Jan-14,Silver,Fuel,M,166095
+621,"Bengaluru, India",18-Apr-15,Silver,Entertainment,F,229171
+622,"Bengaluru, India",01-Apr-14,Platinum,Bills,F,174903
+623,"Delhi, India",17-Feb-15,Platinum,Grocery,M,271025
+624,"Bengaluru, India",25-May-14,Silver,Fuel,M,97640
+625,"Bengaluru, India",04-Jul-14,Platinum,Fuel,F,15705
+626,"Bengaluru, India",05-Feb-15,Gold,Fuel,M,11843
+627,"Greater Mumbai, India",13-May-15,Silver,Fuel,F,185757
+628,"Ahmedabad, India",27-Mar-15,Silver,Grocery,M,114368
+629,"Delhi, India",18-Feb-15,Signature,Food,M,122640
+630,"Bengaluru, India",17-Jun-14,Silver,Food,M,66140
+631,"Ahmedabad, India",13-Nov-14,Gold,Entertainment,F,229405
+632,"Ahmedabad, India",29-Nov-14,Platinum,Bills,F,138144
+633,"Delhi, India",06-May-15,Silver,Bills,M,19898
+634,"Bengaluru, India",06-Nov-14,Signature,Food,M,173112
+635,"Ahmedabad, India",17-Oct-14,Signature,Grocery,M,230915
+636,"Greater Mumbai, India",07-May-15,Silver,Fuel,F,249834
+637,"Bengaluru, India",10-Oct-14,Gold,Fuel,F,59467
+638,"Greater Mumbai, India",11-Feb-15,Silver,Food,F,95693
+639,"Delhi, India",03-Jun-14,Signature,Fuel,M,286502
+640,"Greater Mumbai, India",12-Feb-14,Gold,Bills,F,270441
+641,"Bengaluru, India",07-Apr-15,Platinum,Food,M,142744
+642,"Greater Mumbai, India",20-Oct-13,Silver,Entertainment,F,214937
+643,"Ahmedabad, India",18-Feb-15,Silver,Fuel,M,290774
+644,"Ahmedabad, India",18-Feb-15,Gold,Fuel,M,148893
+645,"Bengaluru, India",17-Oct-13,Platinum,Entertainment,F,249888
+646,"Delhi, India",15-Nov-13,Gold,Food,M,120278
+647,"Bengaluru, India",15-Jun-14,Gold,Grocery,M,103135
+648,"Ahmedabad, India",23-Dec-13,Platinum,Entertainment,F,61507
+649,"Bengaluru, India",26-Nov-13,Signature,Entertainment,M,173357
+650,"Delhi, India",18-Aug-14,Silver,Bills,M,195173
+651,"Ahmedabad, India",07-Oct-13,Platinum,Food,F,130267
+652,"Greater Mumbai, India",03-Jul-14,Gold,Bills,M,186454
+653,"Ahmedabad, India",13-May-14,Gold,Entertainment,M,145010
+654,"Delhi, India",19-Dec-13,Silver,Entertainment,F,113145
+655,"Greater Mumbai, India",26-Apr-14,Signature,Food,M,44748
+656,"Bengaluru, India",10-Jun-14,Signature,Grocery,F,129152
+657,"Delhi, India",08-Mar-15,Signature,Entertainment,M,43220
+658,"Ahmedabad, India",23-Aug-14,Silver,Entertainment,F,208138
+659,"Delhi, India",06-May-15,Silver,Food,M,183405
+660,"Ahmedabad, India",24-May-15,Silver,Entertainment,M,163978
+661,"Ahmedabad, India",23-Oct-14,Platinum,Entertainment,F,72602
+662,"Bengaluru, India",11-Feb-15,Signature,Fuel,F,206125
+663,"Bengaluru, India",08-Sep-14,Signature,Food,M,173224
+664,"Greater Mumbai, India",24-Oct-13,Gold,Fuel,F,224271
+665,"Delhi, India",10-Oct-13,Signature,Fuel,F,19918
+666,"Ahmedabad, India",12-Mar-15,Silver,Fuel,M,240390
+667,"Ahmedabad, India",10-Apr-15,Gold,Entertainment,F,232716
+668,"Bengaluru, India",23-Feb-14,Silver,Grocery,M,34091
+669,"Greater Mumbai, India",16-Mar-14,Signature,Bills,F,249077
+670,"Greater Mumbai, India",11-Apr-15,Platinum,Bills,M,178290
+671,"Ahmedabad, India",10-Aug-14,Signature,Entertainment,F,100620
+672,"Ahmedabad, India",23-Feb-14,Platinum,Grocery,M,193873
+673,"Bengaluru, India",18-Jan-15,Platinum,Grocery,F,221231
+674,"Delhi, India",29-Oct-13,Platinum,Grocery,F,63112
+675,"Delhi, India",05-Apr-15,Platinum,Bills,M,92786
+676,"Ahmedabad, India",09-Dec-14,Silver,Grocery,F,242712
+677,"Delhi, India",08-Mar-14,Silver,Bills,M,33966
+678,"Delhi, India",10-Mar-14,Gold,Fuel,M,292609
+679,"Ahmedabad, India",16-Jul-14,Platinum,Food,M,219971
+680,"Delhi, India",25-Feb-15,Signature,Food,M,27357
+681,"Ahmedabad, India",11-Jun-14,Signature,Entertainment,M,146609
+682,"Ahmedabad, India",11-May-14,Signature,Fuel,F,102672
+683,"Greater Mumbai, India",07-Feb-14,Gold,Entertainment,F,73649
+684,"Delhi, India",28-Sep-14,Signature,Food,M,206705
+685,"Delhi, India",03-Apr-14,Gold,Bills,M,161024
+686,"Greater Mumbai, India",14-Feb-15,Signature,Bills,M,219095
+687,"Greater Mumbai, India",11-Feb-14,Platinum,Bills,F,91393
+688,"Greater Mumbai, India",19-Sep-14,Gold,Food,M,193390
+689,"Bengaluru, India",29-Mar-14,Signature,Entertainment,F,241544
+690,"Ahmedabad, India",27-Oct-13,Signature,Bills,F,130641
+691,"Delhi, India",29-Apr-15,Gold,Food,M,211878
+692,"Ahmedabad, India",02-Feb-14,Silver,Food,M,20870
+693,"Ahmedabad, India",08-Apr-15,Platinum,Grocery,M,292636
+694,"Delhi, India",22-Dec-13,Gold,Fuel,M,24565
+695,"Ahmedabad, India",22-Nov-13,Gold,Grocery,F,14205
+696,"Greater Mumbai, India",17-Feb-14,Platinum,Entertainment,F,141251
+697,"Delhi, India",11-Apr-15,Gold,Grocery,M,170469
+698,"Ahmedabad, India",01-May-15,Gold,Food,M,9087
+699,"Greater Mumbai, India",31-Aug-14,Silver,Bills,F,41578
+700,"Ahmedabad, India",27-Nov-13,Platinum,Bills,M,98404
+701,"Delhi, India",12-Nov-14,Gold,Fuel,M,114361
+702,"Delhi, India",06-Jan-15,Signature,Entertainment,M,241498
+703,"Delhi, India",08-Dec-14,Silver,Food,F,53005
+704,"Greater Mumbai, India",19-Dec-13,Gold,Bills,F,44121
+705,"Greater Mumbai, India",03-Apr-14,Signature,Fuel,M,32203
+706,"Ahmedabad, India",15-Aug-14,Signature,Entertainment,F,196514
+707,"Greater Mumbai, India",21-Jun-14,Signature,Bills,F,192395
+708,"Delhi, India",19-Jan-15,Silver,Entertainment,M,131409
+709,"Greater Mumbai, India",01-Sep-14,Silver,Fuel,M,184484
+710,"Greater Mumbai, India",01-Oct-14,Gold,Fuel,F,41107
+711,"Delhi, India",16-Feb-15,Gold,Bills,M,48145
+712,"Bengaluru, India",29-Mar-15,Platinum,Bills,M,147937
+713,"Delhi, India",13-May-15,Silver,Food,M,157207
+714,"Delhi, India",20-Apr-15,Signature,Food,M,239931
+715,"Greater Mumbai, India",02-Mar-14,Platinum,Fuel,F,230426
+716,"Ahmedabad, India",16-Aug-14,Gold,Food,F,133648
+717,"Ahmedabad, India",24-Feb-14,Silver,Fuel,M,125673
+718,"Bengaluru, India",28-Nov-14,Platinum,Bills,F,143800
+719,"Bengaluru, India",26-Dec-13,Gold,Bills,F,44998
+720,"Ahmedabad, India",06-Jan-15,Silver,Bills,M,88762
+721,"Delhi, India",06-Apr-14,Platinum,Fuel,M,181268
+722,"Ahmedabad, India",20-May-14,Signature,Entertainment,M,80907
+723,"Bengaluru, India",23-Dec-13,Signature,Bills,M,224676
+724,"Delhi, India",25-Oct-14,Gold,Food,M,26176
+725,"Bengaluru, India",09-Jan-14,Platinum,Food,F,39124
+726,"Greater Mumbai, India",14-Jun-14,Platinum,Fuel,F,37510
+727,"Greater Mumbai, India",22-Jul-14,Signature,Bills,F,247001
+728,"Delhi, India",10-Dec-14,Silver,Grocery,F,167672
+729,"Ahmedabad, India",22-Oct-14,Signature,Grocery,F,152551
+730,"Bengaluru, India",10-Jan-15,Signature,Food,F,40295
+731,"Bengaluru, India",16-Mar-14,Platinum,Food,F,88471
+732,"Bengaluru, India",07-Jan-15,Gold,Grocery,F,297063
+733,"Ahmedabad, India",16-Sep-14,Platinum,Bills,F,12125
+734,"Bengaluru, India",04-Jan-14,Signature,Fuel,M,130942
+735,"Delhi, India",12-Sep-14,Signature,Entertainment,M,191863
+736,"Greater Mumbai, India",11-Mar-15,Silver,Grocery,M,143893
+737,"Ahmedabad, India",05-Sep-14,Gold,Grocery,M,220653
+738,"Ahmedabad, India",10-Dec-13,Platinum,Food,F,102005
+739,"Greater Mumbai, India",11-Mar-15,Silver,Grocery,F,217325
+740,"Ahmedabad, India",08-Jun-14,Gold,Bills,M,72226
+741,"Bengaluru, India",17-Mar-14,Signature,Fuel,F,37489
+742,"Ahmedabad, India",12-Oct-14,Silver,Grocery,F,273138
+743,"Bengaluru, India",28-Aug-14,Gold,Entertainment,M,190335
+744,"Greater Mumbai, India",07-Dec-14,Signature,Food,F,108907
+745,"Bengaluru, India",09-Feb-14,Platinum,Fuel,F,213169
+746,"Delhi, India",15-Jun-14,Silver,Fuel,M,50610
+747,"Bengaluru, India",30-Apr-15,Silver,Food,M,51055
+748,"Ahmedabad, India",19-Jul-14,Gold,Fuel,M,166212
+749,"Delhi, India",14-Mar-14,Platinum,Fuel,M,188951
+750,"Ahmedabad, India",23-Jul-14,Silver,Fuel,M,197977
+751,"Ahmedabad, India",24-Oct-14,Platinum,Grocery,M,173957
+752,"Delhi, India",28-Mar-15,Signature,Fuel,M,150801
+753,"Delhi, India",20-Sep-14,Signature,Grocery,F,207165
+754,"Bengaluru, India",01-Mar-15,Signature,Bills,M,115946
+755,"Bengaluru, India",02-May-14,Signature,Fuel,M,281939
+756,"Delhi, India",23-Feb-15,Platinum,Bills,F,164903
+757,"Delhi, India",19-Feb-15,Silver,Bills,F,241481
+758,"Greater Mumbai, India",24-Jan-15,Platinum,Food,M,203926
+759,"Ahmedabad, India",08-Aug-14,Signature,Grocery,F,239328
+760,"Delhi, India",24-Dec-14,Signature,Bills,F,169384
+761,"Greater Mumbai, India",24-Nov-14,Silver,Grocery,M,108321
+762,"Delhi, India",27-Jun-14,Silver,Grocery,M,186117
+763,"Bengaluru, India",31-Jan-15,Platinum,Bills,F,168268
+764,"Ahmedabad, India",13-Jan-14,Gold,Fuel,M,61529
+765,"Greater Mumbai, India",18-Nov-13,Signature,Grocery,M,6593
+766,"Delhi, India",02-Feb-14,Signature,Fuel,F,247327
+767,"Bengaluru, India",07-Apr-14,Silver,Food,M,249391
+768,"Greater Mumbai, India",07-Jan-15,Signature,Fuel,M,163813
+769,"Delhi, India",13-Jun-14,Gold,Grocery,M,142667
+770,"Bengaluru, India",02-Dec-13,Platinum,Fuel,M,129549
+771,"Delhi, India",07-Dec-13,Platinum,Food,F,274786
+772,"Greater Mumbai, India",23-Mar-15,Signature,Entertainment,F,172444
+773,"Ahmedabad, India",17-Apr-14,Gold,Food,M,53934
+774,"Bengaluru, India",06-Sep-14,Signature,Grocery,F,260751
+775,"Ahmedabad, India",18-Aug-14,Silver,Fuel,F,133027
+776,"Bengaluru, India",09-Jan-15,Platinum,Bills,F,184915
+777,"Delhi, India",04-Jan-15,Signature,Grocery,M,234569
+778,"Greater Mumbai, India",25-Mar-15,Signature,Bills,F,157971
+779,"Bengaluru, India",06-Nov-13,Silver,Fuel,F,280870
+780,"Delhi, India",03-Apr-14,Silver,Bills,F,176785
+781,"Bengaluru, India",10-May-14,Gold,Fuel,M,76781
+782,"Bengaluru, India",02-Apr-14,Signature,Entertainment,M,280054
+783,"Bengaluru, India",22-Mar-14,Silver,Food,F,27234
+784,"Ahmedabad, India",27-Feb-14,Signature,Grocery,F,11078
+785,"Greater Mumbai, India",20-Aug-14,Gold,Fuel,M,36127
+786,"Greater Mumbai, India",04-Oct-14,Signature,Food,M,223623
+787,"Greater Mumbai, India",09-Jan-14,Signature,Grocery,F,26890
+788,"Greater Mumbai, India",03-Jan-14,Gold,Grocery,M,105181
+789,"Bengaluru, India",21-Dec-13,Signature,Grocery,M,42867
+790,"Bengaluru, India",30-Nov-14,Gold,Grocery,F,151535
+791,"Greater Mumbai, India",09-Oct-13,Platinum,Fuel,F,278582
+792,"Ahmedabad, India",22-May-15,Platinum,Fuel,M,133372
+793,"Delhi, India",06-May-14,Signature,Grocery,M,57585
+794,"Greater Mumbai, India",14-Jun-14,Gold,Bills,F,156138
+795,"Delhi, India",02-Dec-13,Silver,Bills,M,75764
+796,"Greater Mumbai, India",16-Oct-14,Silver,Fuel,F,28176
+797,"Greater Mumbai, India",03-Feb-14,Platinum,Entertainment,M,217322
+798,"Delhi, India",09-Jan-14,Silver,Food,F,95261
+799,"Ahmedabad, India",03-Dec-14,Gold,Bills,F,222804
+800,"Delhi, India",20-Aug-14,Silver,Food,M,154942
+801,"Ahmedabad, India",11-Aug-14,Platinum,Grocery,M,185278
+802,"Delhi, India",10-Oct-13,Platinum,Entertainment,M,259740
+803,"Delhi, India",24-Sep-14,Signature,Bills,M,32612
+804,"Ahmedabad, India",14-Mar-15,Silver,Entertainment,M,223319
+805,"Bengaluru, India",29-May-14,Signature,Bills,M,239241
+806,"Delhi, India",13-Apr-15,Silver,Entertainment,M,133201
+807,"Delhi, India",08-Jan-15,Silver,Bills,M,270969
+808,"Delhi, India",31-Aug-14,Signature,Grocery,M,171879
+809,"Bengaluru, India",21-Nov-13,Signature,Bills,F,71967
+810,"Bengaluru, India",13-Oct-14,Gold,Bills,F,86680
+811,"Delhi, India",10-Dec-13,Silver,Grocery,M,139475
+812,"Bengaluru, India",29-Oct-14,Gold,Grocery,F,61654
+813,"Delhi, India",11-Sep-14,Silver,Grocery,F,29685
+814,"Delhi, India",10-Nov-13,Platinum,Entertainment,F,51185
+815,"Greater Mumbai, India",28-Mar-14,Silver,Fuel,M,42681
+816,"Bengaluru, India",27-Oct-14,Signature,Entertainment,F,126112
+817,"Delhi, India",04-Apr-15,Gold,Bills,M,140317
+818,"Bengaluru, India",29-Oct-14,Platinum,Fuel,F,92115
+819,"Delhi, India",02-Feb-14,Silver,Food,M,17683
+820,"Bengaluru, India",22-Feb-15,Silver,Food,F,29142
+821,"Bengaluru, India",24-Jan-15,Silver,Food,F,290383
+822,"Delhi, India",09-Oct-13,Gold,Fuel,F,299642
+823,"Ahmedabad, India",20-Oct-13,Signature,Bills,F,99631
+824,"Delhi, India",17-Jan-15,Gold,Entertainment,M,125123
+825,"Ahmedabad, India",19-Jul-14,Gold,Food,F,187763
+826,"Greater Mumbai, India",28-Dec-13,Gold,Bills,M,248970
+827,"Bengaluru, India",11-Feb-15,Platinum,Bills,M,34867
+828,"Ahmedabad, India",13-Jul-14,Platinum,Grocery,F,224138
+829,"Delhi, India",24-Nov-14,Silver,Bills,M,104689
+830,"Bengaluru, India",08-Oct-13,Signature,Bills,F,76267
+831,"Ahmedabad, India",02-Feb-14,Signature,Fuel,F,291636
+832,"Bengaluru, India",22-May-14,Signature,Grocery,F,255384
+833,"Ahmedabad, India",04-May-15,Gold,Fuel,M,79296
+834,"Ahmedabad, India",07-Oct-14,Platinum,Entertainment,F,185050
+835,"Greater Mumbai, India",06-Jan-15,Signature,Entertainment,F,275315
+836,"Greater Mumbai, India",19-Oct-13,Platinum,Entertainment,M,191660
+837,"Greater Mumbai, India",25-Jan-14,Signature,Food,F,198805
+838,"Bengaluru, India",17-Aug-14,Signature,Food,F,286474
+839,"Greater Mumbai, India",16-Jan-14,Signature,Food,F,153044
+840,"Greater Mumbai, India",30-Aug-14,Platinum,Bills,M,169787
+841,"Delhi, India",20-Apr-15,Silver,Entertainment,F,150141
+842,"Ahmedabad, India",15-Mar-14,Signature,Entertainment,M,115464
+843,"Greater Mumbai, India",13-Mar-15,Signature,Bills,F,272039
+844,"Greater Mumbai, India",07-Feb-15,Platinum,Grocery,F,217841
+845,"Delhi, India",15-May-14,Platinum,Bills,M,174421
+846,"Greater Mumbai, India",31-Oct-14,Silver,Grocery,M,280490
+847,"Greater Mumbai, India",22-Nov-13,Silver,Bills,F,128746
+848,"Greater Mumbai, India",19-Dec-14,Platinum,Food,F,80189
+849,"Bengaluru, India",17-Dec-13,Silver,Grocery,M,237114
+850,"Bengaluru, India",10-Aug-14,Silver,Bills,M,41993
+851,"Bengaluru, India",05-Mar-14,Silver,Fuel,M,150636
+852,"Greater Mumbai, India",21-Sep-14,Silver,Bills,M,245265
+853,"Ahmedabad, India",17-Jul-14,Platinum,Fuel,M,291025
+854,"Bengaluru, India",21-Feb-15,Signature,Entertainment,M,170597
+855,"Ahmedabad, India",27-Jan-14,Silver,Bills,M,77118
+856,"Bengaluru, India",22-Apr-14,Signature,Fuel,M,291274
+857,"Ahmedabad, India",24-Nov-13,Silver,Entertainment,F,15392
+858,"Ahmedabad, India",10-Aug-14,Platinum,Entertainment,M,5468
+859,"Greater Mumbai, India",30-Oct-14,Gold,Fuel,M,23665
+860,"Greater Mumbai, India",08-Jul-14,Silver,Bills,M,145141
+861,"Bengaluru, India",23-Apr-15,Silver,Food,M,218195
+862,"Ahmedabad, India",10-Oct-14,Silver,Entertainment,F,121736
+863,"Delhi, India",23-May-15,Silver,Fuel,F,180461
+864,"Bengaluru, India",30-Oct-13,Gold,Grocery,M,57447
+865,"Ahmedabad, India",04-Feb-14,Silver,Entertainment,M,180235
+866,"Greater Mumbai, India",02-Feb-15,Gold,Entertainment,F,93930
+867,"Greater Mumbai, India",29-Dec-13,Gold,Grocery,M,163867
+868,"Bengaluru, India",29-Dec-13,Silver,Bills,F,19575
+869,"Ahmedabad, India",21-Jul-14,Silver,Bills,F,289970
+870,"Ahmedabad, India",25-Dec-14,Gold,Food,F,112482
+871,"Ahmedabad, India",18-Aug-14,Silver,Entertainment,F,298417
+872,"Bengaluru, India",14-Jan-14,Signature,Bills,M,148870
+873,"Greater Mumbai, India",04-Jan-15,Gold,Entertainment,M,119344
+874,"Bengaluru, India",28-Apr-14,Silver,Grocery,F,62019
+875,"Greater Mumbai, India",11-Feb-15,Platinum,Bills,M,82913
+876,"Bengaluru, India",10-Jan-15,Signature,Food,F,117710
+877,"Delhi, India",20-Nov-13,Gold,Entertainment,F,210517
+878,"Ahmedabad, India",25-Jan-15,Silver,Food,F,113890
+879,"Bengaluru, India",18-Aug-14,Silver,Entertainment,M,229737
+880,"Ahmedabad, India",05-Jan-15,Platinum,Entertainment,F,265791
+881,"Delhi, India",07-Jan-15,Gold,Grocery,F,130714
+882,"Ahmedabad, India",20-Feb-15,Silver,Food,M,191165
+883,"Bengaluru, India",18-May-15,Silver,Fuel,F,119664
+884,"Greater Mumbai, India",08-Oct-14,Platinum,Fuel,F,231014
+885,"Delhi, India",07-Mar-14,Gold,Bills,F,76018
+886,"Bengaluru, India",11-Jan-15,Gold,Entertainment,F,12766
+887,"Greater Mumbai, India",09-Feb-15,Gold,Grocery,M,214247
+888,"Bengaluru, India",04-Mar-14,Gold,Fuel,F,7966
+889,"Delhi, India",20-Jan-15,Gold,Food,F,288805
+890,"Bengaluru, India",14-Aug-14,Platinum,Food,M,100163
+891,"Bengaluru, India",17-Jul-14,Signature,Bills,M,108240
+892,"Ahmedabad, India",19-Dec-13,Signature,Fuel,M,118392
+893,"Bengaluru, India",03-Jan-15,Platinum,Grocery,F,73263
+894,"Delhi, India",09-Feb-15,Silver,Bills,M,138607
+895,"Ahmedabad, India",20-Aug-14,Signature,Food,F,283746
+896,"Bengaluru, India",06-Feb-15,Platinum,Bills,F,177031
+897,"Ahmedabad, India",06-Oct-14,Silver,Bills,F,192491
+898,"Ahmedabad, India",24-Dec-13,Platinum,Grocery,M,68065
+899,"Greater Mumbai, India",10-Apr-15,Silver,Entertainment,F,164033
+900,"Ahmedabad, India",26-Nov-14,Platinum,Food,F,281658
+901,"Greater Mumbai, India",21-Jan-15,Signature,Entertainment,M,295463
+902,"Ahmedabad, India",29-Sep-14,Silver,Entertainment,F,79202
+903,"Ahmedabad, India",17-Nov-13,Platinum,Food,F,12951
+904,"Delhi, India",21-Nov-13,Gold,Bills,M,267374
+905,"Ahmedabad, India",16-Oct-14,Signature,Grocery,F,170471
+906,"Greater Mumbai, India",30-May-14,Platinum,Fuel,M,127338
+907,"Greater Mumbai, India",29-Dec-14,Signature,Fuel,F,116195
+908,"Delhi, India",08-Feb-15,Gold,Entertainment,F,137119
+909,"Greater Mumbai, India",09-Sep-14,Signature,Bills,F,274492
+910,"Ahmedabad, India",06-Sep-14,Silver,Grocery,F,268855
+911,"Greater Mumbai, India",17-Jun-14,Silver,Food,F,199403
+912,"Greater Mumbai, India",15-Feb-15,Gold,Fuel,M,232373
+913,"Delhi, India",18-Sep-14,Platinum,Entertainment,F,151051
+914,"Greater Mumbai, India",29-Nov-14,Signature,Entertainment,M,248658
+915,"Bengaluru, India",07-Mar-14,Platinum,Food,M,209347
+916,"Bengaluru, India",29-Apr-14,Signature,Grocery,F,175732
+917,"Delhi, India",12-May-15,Signature,Bills,M,103433
+918,"Greater Mumbai, India",24-Sep-14,Platinum,Entertainment,F,285341
+919,"Bengaluru, India",11-Mar-14,Platinum,Grocery,M,125159
+920,"Greater Mumbai, India",18-Oct-14,Silver,Entertainment,F,264418
+921,"Delhi, India",17-Nov-13,Platinum,Fuel,M,91677
+922,"Bengaluru, India",26-Jun-14,Signature,Entertainment,F,150662
+923,"Greater Mumbai, India",09-Feb-15,Gold,Fuel,M,45391
+924,"Greater Mumbai, India",07-Dec-14,Platinum,Food,F,61669
+925,"Bengaluru, India",21-Oct-14,Gold,Fuel,M,232677
+926,"Delhi, India",21-May-15,Signature,Fuel,M,87608
+927,"Bengaluru, India",08-Nov-14,Signature,Entertainment,M,180139
+928,"Greater Mumbai, India",11-Mar-15,Platinum,Entertainment,M,74382
+929,"Greater Mumbai, India",13-Sep-14,Gold,Food,F,229254
+930,"Delhi, India",03-Jan-14,Platinum,Entertainment,M,232994
+931,"Ahmedabad, India",27-Apr-14,Silver,Food,M,49600
+932,"Ahmedabad, India",04-Apr-14,Platinum,Grocery,F,268595
+933,"Ahmedabad, India",26-Apr-15,Silver,Grocery,F,196094
+934,"Ahmedabad, India",13-Nov-14,Signature,Fuel,F,127888
+935,"Greater Mumbai, India",25-Nov-14,Gold,Grocery,F,47247
+936,"Ahmedabad, India",17-May-14,Silver,Bills,F,136478
+937,"Ahmedabad, India",27-May-14,Gold,Bills,F,297523
+938,"Greater Mumbai, India",29-Mar-14,Signature,Fuel,F,139910
+939,"Greater Mumbai, India",02-Dec-13,Gold,Entertainment,F,49327
+940,"Greater Mumbai, India",12-Dec-14,Platinum,Fuel,F,6176
+941,"Bengaluru, India",18-Feb-15,Signature,Food,M,287628
+942,"Bengaluru, India",07-Sep-14,Silver,Grocery,F,177005
+943,"Bengaluru, India",06-Feb-14,Gold,Entertainment,M,4906
+944,"Bengaluru, India",26-Dec-14,Platinum,Entertainment,M,246756
+945,"Ahmedabad, India",19-Oct-14,Silver,Bills,M,138511
+946,"Bengaluru, India",08-May-15,Silver,Bills,M,148552
+947,"Ahmedabad, India",11-Apr-15,Platinum,Grocery,M,158677
+948,"Ahmedabad, India",08-Feb-14,Signature,Bills,F,260920
+949,"Bengaluru, India",19-Dec-13,Platinum,Fuel,M,265988
+950,"Ahmedabad, India",12-Feb-14,Signature,Fuel,F,27927
+951,"Bengaluru, India",17-Jan-15,Gold,Food,F,188026
+952,"Ahmedabad, India",24-Mar-15,Platinum,Entertainment,M,296977
+953,"Bengaluru, India",12-Apr-14,Silver,Entertainment,M,7789
+954,"Ahmedabad, India",30-Nov-14,Platinum,Entertainment,M,47532
+955,"Bengaluru, India",10-Jul-14,Silver,Entertainment,M,246790
+956,"Ahmedabad, India",03-May-14,Signature,Bills,F,126049
+957,"Greater Mumbai, India",16-Jul-14,Gold,Entertainment,M,179541
+958,"Bengaluru, India",09-Jan-14,Signature,Food,F,57591
+959,"Delhi, India",18-Feb-15,Silver,Fuel,F,243074
+960,"Ahmedabad, India",04-Nov-13,Silver,Fuel,F,244917
+961,"Delhi, India",31-Oct-14,Platinum,Food,M,24765
+962,"Ahmedabad, India",07-Feb-14,Signature,Entertainment,M,295553
+963,"Delhi, India",02-May-14,Silver,Fuel,M,224591
+964,"Ahmedabad, India",02-Dec-13,Gold,Fuel,M,257442
+965,"Bengaluru, India",14-May-14,Signature,Food,M,71597
+966,"Greater Mumbai, India",04-May-15,Platinum,Bills,F,204811
+967,"Greater Mumbai, India",13-Dec-13,Platinum,Food,M,119116
+968,"Bengaluru, India",29-Mar-15,Signature,Grocery,F,270240
+969,"Bengaluru, India",31-Aug-14,Signature,Grocery,F,172515
+970,"Greater Mumbai, India",14-Feb-14,Platinum,Fuel,F,132273
+971,"Bengaluru, India",11-Jul-14,Gold,Bills,M,18829
+972,"Greater Mumbai, India",09-Oct-13,Signature,Grocery,M,37495
+973,"Greater Mumbai, India",11-Apr-15,Silver,Fuel,M,209291
+974,"Greater Mumbai, India",16-May-15,Gold,Entertainment,M,22289
+975,"Ahmedabad, India",27-Jun-14,Silver,Food,F,78379
+976,"Ahmedabad, India",31-Dec-13,Signature,Food,M,198893
+977,"Ahmedabad, India",06-Apr-14,Gold,Entertainment,M,88507
+978,"Greater Mumbai, India",27-Apr-14,Silver,Food,M,85667
+979,"Ahmedabad, India",10-Jan-14,Silver,Grocery,M,13233
+980,"Delhi, India",05-Apr-15,Gold,Bills,F,58109
+981,"Greater Mumbai, India",06-Apr-15,Signature,Bills,F,284336
+982,"Bengaluru, India",08-Jan-15,Platinum,Food,M,177499
+983,"Ahmedabad, India",09-Jun-14,Gold,Food,M,132135
+984,"Delhi, India",14-Jan-15,Silver,Grocery,M,207310
+985,"Ahmedabad, India",23-Aug-14,Gold,Entertainment,M,257220
+986,"Delhi, India",06-May-14,Signature,Entertainment,M,247061
+987,"Delhi, India",13-Dec-13,Gold,Grocery,F,269513
+988,"Greater Mumbai, India",06-Sep-14,Gold,Fuel,M,252208
+989,"Bengaluru, India",05-Feb-15,Platinum,Fuel,M,198508
+990,"Ahmedabad, India",08-Aug-14,Gold,Grocery,F,52611
+991,"Ahmedabad, India",02-Apr-14,Platinum,Grocery,M,129515
+992,"Ahmedabad, India",13-Oct-13,Platinum,Bills,M,298523
+993,"Bengaluru, India",30-Nov-14,Platinum,Entertainment,M,9906
+994,"Bengaluru, India",01-Feb-14,Platinum,Bills,M,173744
+995,"Ahmedabad, India",03-Jul-14,Platinum,Entertainment,F,200981
+996,"Greater Mumbai, India",01-Feb-15,Platinum,Grocery,F,221928
+997,"Greater Mumbai, India",04-Mar-14,Signature,Fuel,M,8635
+998,"Bengaluru, India",24-Nov-13,Platinum,Entertainment,F,222660
+999,"Ahmedabad, India",09-Jun-14,Gold,Grocery,F,25069
+1000,"Greater Mumbai, India",17-Oct-14,Signature,Entertainment,F,183026
+1001,"Ahmedabad, India",26-Apr-14,Silver,Bills,F,37707
+1002,"Bengaluru, India",02-Jun-14,Signature,Bills,M,115533
+1003,"Bengaluru, India",26-Nov-13,Signature,Entertainment,F,128398
+1004,"Ahmedabad, India",24-May-14,Silver,Fuel,F,77385
+1005,"Bengaluru, India",24-May-15,Gold,Grocery,F,193919
+1006,"Greater Mumbai, India",07-Jun-14,Platinum,Food,M,198721
+1007,"Greater Mumbai, India",26-Feb-15,Signature,Grocery,F,133894
+1008,"Bengaluru, India",20-Feb-14,Silver,Entertainment,F,118670
+1009,"Bengaluru, India",26-Jan-15,Silver,Food,M,215961
+1010,"Delhi, India",18-Jun-14,Platinum,Grocery,M,72088
+1011,"Greater Mumbai, India",27-Mar-14,Platinum,Bills,F,185707
+1012,"Delhi, India",10-Feb-14,Gold,Food,M,50926
+1013,"Bengaluru, India",09-Jun-14,Silver,Entertainment,F,299379
+1014,"Delhi, India",01-Sep-14,Signature,Grocery,M,48704
+1015,"Delhi, India",22-Jun-14,Platinum,Bills,F,194055
+1016,"Delhi, India",15-Jun-14,Signature,Fuel,F,33096
+1017,"Greater Mumbai, India",02-Aug-14,Platinum,Fuel,M,206948
+1018,"Ahmedabad, India",20-Mar-14,Silver,Entertainment,F,130438
+1019,"Bengaluru, India",10-Dec-14,Signature,Bills,M,236755
+1020,"Greater Mumbai, India",20-Nov-14,Signature,Food,F,129210
+1021,"Bengaluru, India",31-Mar-14,Platinum,Entertainment,F,206926
+1022,"Delhi, India",21-Jul-14,Gold,Grocery,F,101124
+1023,"Greater Mumbai, India",14-Sep-14,Signature,Fuel,M,85268
+1024,"Bengaluru, India",08-Jun-14,Signature,Entertainment,M,19061
+1025,"Bengaluru, India",08-Sep-14,Signature,Grocery,F,91436
+1026,"Delhi, India",20-Feb-14,Gold,Fuel,F,17855
+1027,"Ahmedabad, India",08-Apr-14,Platinum,Entertainment,F,217337
+1028,"Ahmedabad, India",24-Dec-13,Gold,Entertainment,F,297649
+1029,"Ahmedabad, India",27-Aug-14,Signature,Bills,M,66629
+1030,"Bengaluru, India",14-Apr-15,Platinum,Grocery,M,241330
+1031,"Delhi, India",02-Apr-15,Signature,Food,F,271424
+1032,"Bengaluru, India",12-Apr-14,Silver,Grocery,F,219156
+1033,"Ahmedabad, India",18-Mar-15,Signature,Grocery,F,201441
+1034,"Bengaluru, India",28-Nov-13,Signature,Entertainment,M,133349
+1035,"Bengaluru, India",12-Apr-15,Silver,Food,M,299217
+1036,"Bengaluru, India",28-Oct-13,Signature,Grocery,M,8051
+1037,"Delhi, India",30-Sep-14,Gold,Food,F,161309
+1038,"Bengaluru, India",11-Apr-14,Silver,Food,F,157755
+1039,"Bengaluru, India",29-Mar-14,Silver,Entertainment,M,279465
+1040,"Greater Mumbai, India",30-Jan-14,Silver,Bills,F,216616
+1041,"Delhi, India",06-Dec-13,Signature,Entertainment,F,237712
+1042,"Greater Mumbai, India",31-Dec-14,Platinum,Entertainment,F,192164
+1043,"Delhi, India",09-Dec-13,Gold,Grocery,F,183157
+1044,"Ahmedabad, India",31-Mar-15,Silver,Fuel,M,87529
+1045,"Ahmedabad, India",06-Mar-15,Gold,Fuel,F,131745
+1046,"Greater Mumbai, India",02-Jul-14,Signature,Food,F,197143
+1047,"Delhi, India",12-May-14,Platinum,Fuel,M,262129
+1048,"Ahmedabad, India",20-Mar-14,Silver,Food,M,95689
+1049,"Ahmedabad, India",30-May-14,Platinum,Food,M,68355
+1050,"Greater Mumbai, India",11-Jan-14,Signature,Grocery,M,166188
+1051,"Bengaluru, India",25-Dec-14,Platinum,Grocery,F,36606
+1052,"Bengaluru, India",08-Jan-14,Platinum,Grocery,M,91268
+1053,"Delhi, India",30-Aug-14,Silver,Entertainment,F,204482
+1054,"Greater Mumbai, India",19-Jul-14,Silver,Bills,M,31860
+1055,"Delhi, India",04-May-15,Platinum,Fuel,F,67016
+1056,"Greater Mumbai, India",19-Nov-14,Platinum,Entertainment,F,92448
+1057,"Delhi, India",01-Jan-14,Signature,Fuel,M,78148
+1058,"Delhi, India",02-Jul-14,Platinum,Fuel,M,12641
+1059,"Delhi, India",26-Mar-15,Silver,Bills,F,160692
+1060,"Greater Mumbai, India",14-May-15,Signature,Bills,M,252756
+1061,"Ahmedabad, India",10-Mar-14,Silver,Grocery,F,95394
+1062,"Ahmedabad, India",16-Apr-14,Silver,Entertainment,F,227152
+1063,"Ahmedabad, India",08-Jul-14,Platinum,Fuel,M,136820
+1064,"Bengaluru, India",07-May-15,Silver,Food,M,178041
+1065,"Bengaluru, India",20-Dec-14,Signature,Entertainment,F,19598
+1066,"Greater Mumbai, India",24-Nov-14,Gold,Bills,M,228215
+1067,"Greater Mumbai, India",14-Apr-14,Platinum,Entertainment,M,112891
+1068,"Ahmedabad, India",09-Oct-13,Silver,Fuel,M,27626
+1069,"Greater Mumbai, India",11-May-15,Signature,Fuel,M,229549
+1070,"Delhi, India",16-Apr-14,Signature,Grocery,F,280848
+1071,"Greater Mumbai, India",10-Mar-14,Silver,Fuel,F,268407
+1072,"Ahmedabad, India",25-Aug-14,Platinum,Entertainment,M,276418
+1073,"Bengaluru, India",10-Dec-14,Silver,Bills,M,221788
+1074,"Ahmedabad, India",16-Nov-14,Silver,Entertainment,F,62931
+1075,"Delhi, India",28-Dec-13,Signature,Entertainment,M,239678
+1076,"Delhi, India",06-Jan-15,Gold,Grocery,F,9747
+1077,"Delhi, India",03-Sep-14,Silver,Entertainment,M,27345
+1078,"Greater Mumbai, India",01-May-14,Gold,Fuel,M,53756
+1079,"Delhi, India",04-Mar-14,Signature,Entertainment,M,24937
+1080,"Delhi, India",27-Feb-14,Silver,Bills,M,28521
+1081,"Ahmedabad, India",26-Feb-15,Platinum,Bills,F,85339
+1082,"Bengaluru, India",11-Oct-13,Gold,Grocery,M,23448
+1083,"Delhi, India",02-Oct-14,Signature,Grocery,M,75033
+1084,"Greater Mumbai, India",19-Apr-15,Platinum,Bills,F,285254
+1085,"Greater Mumbai, India",05-Feb-15,Gold,Grocery,M,58887
+1086,"Greater Mumbai, India",07-Apr-14,Gold,Entertainment,M,120546
+1087,"Ahmedabad, India",28-Apr-14,Gold,Food,M,39632
+1088,"Delhi, India",18-Aug-14,Gold,Entertainment,F,241234
+1089,"Delhi, India",16-Jul-14,Gold,Food,F,276057
+1090,"Delhi, India",23-May-14,Platinum,Bills,M,68806
+1091,"Delhi, India",19-Jan-14,Signature,Grocery,F,188813
+1092,"Greater Mumbai, India",16-Jul-14,Platinum,Fuel,M,68341
+1093,"Bengaluru, India",15-Oct-13,Platinum,Grocery,M,265874
+1094,"Ahmedabad, India",29-Apr-14,Silver,Bills,M,191477
+1095,"Ahmedabad, India",14-Feb-14,Platinum,Entertainment,F,268598
+1096,"Greater Mumbai, India",01-Apr-14,Silver,Entertainment,F,225017
+1097,"Ahmedabad, India",21-Aug-14,Platinum,Fuel,F,246212
+1098,"Bengaluru, India",11-Jan-15,Platinum,Bills,M,176941
+1099,"Bengaluru, India",06-Jul-14,Silver,Entertainment,M,148660
+1100,"Delhi, India",30-May-14,Platinum,Fuel,M,97664
+1101,"Greater Mumbai, India",05-Mar-14,Gold,Entertainment,M,145684
+1102,"Bengaluru, India",21-Jun-14,Silver,Bills,M,55894
+1103,"Greater Mumbai, India",13-Nov-13,Gold,Grocery,M,239149
+1104,"Greater Mumbai, India",05-Mar-15,Signature,Grocery,M,199950
+1105,"Greater Mumbai, India",16-Aug-14,Silver,Entertainment,F,170835
+1106,"Bengaluru, India",18-Jan-14,Gold,Food,M,8328
+1107,"Bengaluru, India",10-Feb-14,Gold,Bills,F,181271
+1108,"Bengaluru, India",07-Apr-14,Signature,Entertainment,F,39247
+1109,"Bengaluru, India",21-Dec-13,Platinum,Entertainment,M,199288
+1110,"Delhi, India",11-Mar-14,Platinum,Food,F,56606
+1111,"Ahmedabad, India",11-May-14,Signature,Entertainment,M,288843
+1112,"Delhi, India",04-May-14,Gold,Fuel,F,178701
+1113,"Bengaluru, India",03-May-15,Platinum,Food,M,223404
+1114,"Delhi, India",11-May-15,Signature,Food,M,292980
+1115,"Bengaluru, India",24-Apr-15,Gold,Food,F,224782
+1116,"Bengaluru, India",02-Jul-14,Gold,Entertainment,M,27267
+1117,"Ahmedabad, India",15-Dec-14,Silver,Bills,F,279110
+1118,"Delhi, India",08-Aug-14,Silver,Food,M,148733
+1119,"Delhi, India",25-Sep-14,Silver,Food,F,130664
+1120,"Greater Mumbai, India",31-Oct-14,Signature,Entertainment,F,43616
+1121,"Delhi, India",04-Jan-15,Silver,Food,M,254028
+1122,"Bengaluru, India",24-Apr-15,Gold,Grocery,F,2628
+1123,"Bengaluru, India",12-Oct-13,Platinum,Entertainment,M,193522
+1124,"Bengaluru, India",07-Aug-14,Signature,Fuel,M,292066
+1125,"Ahmedabad, India",29-Jul-14,Silver,Entertainment,M,270301
+1126,"Bengaluru, India",05-Feb-15,Signature,Entertainment,M,23826
+1127,"Bengaluru, India",07-May-15,Gold,Fuel,F,167615
+1128,"Delhi, India",02-Mar-14,Silver,Entertainment,M,193906
+1129,"Delhi, India",18-Aug-14,Platinum,Food,F,244981
+1130,"Ahmedabad, India",11-Mar-14,Silver,Food,F,44908
+1131,"Greater Mumbai, India",19-Oct-14,Silver,Food,F,227797
+1132,"Bengaluru, India",18-Aug-14,Platinum,Bills,F,288011
+1133,"Greater Mumbai, India",12-Mar-15,Silver,Entertainment,F,258791
+1134,"Delhi, India",28-Dec-13,Silver,Bills,M,263323
+1135,"Delhi, India",17-Mar-14,Signature,Grocery,M,203094
+1136,"Greater Mumbai, India",05-Mar-15,Gold,Food,M,45106
+1137,"Bengaluru, India",26-Jul-14,Silver,Grocery,F,18351
+1138,"Greater Mumbai, India",12-Oct-13,Signature,Entertainment,F,37103
+1139,"Bengaluru, India",13-Mar-14,Silver,Food,F,141036
+1140,"Greater Mumbai, India",21-Dec-13,Gold,Bills,F,40116
+1141,"Greater Mumbai, India",23-Dec-13,Signature,Food,M,212380
+1142,"Ahmedabad, India",21-Mar-15,Silver,Bills,M,174230
+1143,"Greater Mumbai, India",29-Mar-15,Platinum,Fuel,F,109583
+1144,"Bengaluru, India",06-Jan-14,Gold,Fuel,M,158143
+1145,"Delhi, India",27-Dec-13,Platinum,Food,M,207467
+1146,"Delhi, India",18-Nov-13,Silver,Bills,F,249325
+1147,"Greater Mumbai, India",27-Nov-13,Gold,Fuel,F,1310
+1148,"Greater Mumbai, India",05-Nov-14,Signature,Bills,F,222116
+1149,"Bengaluru, India",23-Sep-14,Platinum,Bills,F,207727
+1150,"Greater Mumbai, India",22-Sep-14,Signature,Bills,M,136662
+1151,"Greater Mumbai, India",12-Dec-14,Platinum,Entertainment,F,86749
+1152,"Delhi, India",20-Jan-15,Gold,Food,M,51412
+1153,"Ahmedabad, India",28-Mar-15,Gold,Grocery,M,242667
+1154,"Ahmedabad, India",16-Nov-13,Silver,Entertainment,F,101110
+1155,"Delhi, India",04-Feb-14,Platinum,Fuel,F,78618
+1156,"Greater Mumbai, India",21-Feb-14,Platinum,Food,M,280521
+1157,"Greater Mumbai, India",22-Sep-14,Gold,Entertainment,F,93147
+1158,"Ahmedabad, India",17-Feb-14,Gold,Food,M,282094
+1159,"Bengaluru, India",13-Sep-14,Signature,Fuel,F,255815
+1160,"Greater Mumbai, India",08-Jan-15,Silver,Entertainment,F,39195
+1161,"Delhi, India",12-Sep-14,Gold,Fuel,F,117316
+1162,"Delhi, India",16-Jan-15,Gold,Fuel,F,88930
+1163,"Bengaluru, India",03-Nov-14,Platinum,Fuel,M,28865
+1164,"Ahmedabad, India",19-Aug-14,Platinum,Grocery,M,272227
+1165,"Ahmedabad, India",25-May-14,Platinum,Food,M,132373
+1166,"Greater Mumbai, India",20-Jun-14,Signature,Fuel,M,139309
+1167,"Bengaluru, India",03-Mar-14,Gold,Food,F,44328
+1168,"Greater Mumbai, India",17-Feb-14,Gold,Entertainment,F,71398
+1169,"Ahmedabad, India",22-Dec-13,Platinum,Grocery,F,198910
+1170,"Ahmedabad, India",01-Nov-13,Platinum,Entertainment,F,89550
+1171,"Greater Mumbai, India",05-Sep-14,Signature,Fuel,M,250356
+1172,"Bengaluru, India",28-Dec-13,Gold,Grocery,F,29531
+1173,"Bengaluru, India",01-Nov-14,Gold,Fuel,F,172440
+1174,"Greater Mumbai, India",16-Nov-14,Gold,Food,M,228387
+1175,"Delhi, India",22-Jan-15,Gold,Fuel,M,19193
+1176,"Ahmedabad, India",07-Dec-13,Gold,Fuel,M,74175
+1177,"Ahmedabad, India",13-Jan-14,Signature,Grocery,M,30857
+1178,"Delhi, India",18-Jan-15,Platinum,Food,M,41731
+1179,"Ahmedabad, India",01-Aug-14,Platinum,Entertainment,M,283211
+1180,"Bengaluru, India",05-Nov-13,Platinum,Entertainment,M,111186
+1181,"Greater Mumbai, India",21-Apr-14,Signature,Food,M,12614
+1182,"Ahmedabad, India",12-Dec-13,Signature,Bills,F,92284
+1183,"Ahmedabad, India",29-Oct-13,Signature,Entertainment,F,125517
+1184,"Delhi, India",28-Oct-14,Platinum,Grocery,F,2393
+1185,"Bengaluru, India",07-Jun-14,Signature,Grocery,F,115378
+1186,"Greater Mumbai, India",11-Mar-14,Gold,Entertainment,M,200390
+1187,"Greater Mumbai, India",17-Aug-14,Platinum,Entertainment,F,190575
+1188,"Delhi, India",16-Feb-15,Gold,Entertainment,M,192587
+1189,"Delhi, India",05-Apr-15,Gold,Food,F,240664
+1190,"Delhi, India",24-Dec-14,Silver,Fuel,M,108860
+1191,"Bengaluru, India",10-Mar-15,Silver,Food,M,19242
+1192,"Greater Mumbai, India",02-Dec-13,Signature,Entertainment,M,120049
+1193,"Ahmedabad, India",08-Jan-15,Platinum,Grocery,F,121893
+1194,"Delhi, India",06-Feb-15,Silver,Bills,F,260347
+1195,"Greater Mumbai, India",08-Aug-14,Gold,Bills,M,241478
+1196,"Greater Mumbai, India",04-Mar-15,Gold,Bills,M,71949
+1197,"Delhi, India",27-Jul-14,Silver,Food,F,170945
+1198,"Delhi, India",22-Dec-13,Signature,Food,M,223891
+1199,"Ahmedabad, India",29-Apr-14,Gold,Entertainment,M,245856
+1200,"Greater Mumbai, India",11-Sep-14,Silver,Entertainment,F,82021
+1201,"Greater Mumbai, India",22-Nov-14,Silver,Grocery,M,221221
+1202,"Greater Mumbai, India",19-Mar-15,Gold,Food,F,284273
+1203,"Greater Mumbai, India",10-Apr-15,Silver,Bills,M,54814
+1204,"Greater Mumbai, India",16-Sep-14,Platinum,Grocery,F,219649
+1205,"Greater Mumbai, India",10-Dec-14,Silver,Fuel,F,62964
+1206,"Ahmedabad, India",01-Dec-13,Gold,Food,F,261391
+1207,"Greater Mumbai, India",15-Mar-14,Platinum,Grocery,M,27395
+1208,"Ahmedabad, India",16-May-15,Signature,Grocery,F,212709
+1209,"Delhi, India",17-Mar-14,Silver,Grocery,F,294934
+1210,"Ahmedabad, India",28-Jun-14,Silver,Entertainment,M,191608
+1211,"Greater Mumbai, India",20-Mar-14,Gold,Entertainment,M,93385
+1212,"Ahmedabad, India",16-May-14,Platinum,Fuel,M,43924
+1213,"Greater Mumbai, India",30-Nov-14,Signature,Food,M,270596
+1214,"Greater Mumbai, India",26-Apr-15,Platinum,Grocery,M,234231
+1215,"Greater Mumbai, India",15-May-15,Silver,Entertainment,F,73287
+1216,"Delhi, India",09-Jun-14,Silver,Entertainment,M,170609
+1217,"Greater Mumbai, India",29-Nov-14,Platinum,Entertainment,F,35146
+1218,"Ahmedabad, India",27-Apr-14,Silver,Food,M,93599
+1219,"Bengaluru, India",06-Mar-14,Gold,Fuel,F,59344
+1220,"Delhi, India",22-Aug-14,Gold,Grocery,F,178041
+1221,"Delhi, India",23-Jun-14,Silver,Entertainment,F,60881
+1222,"Delhi, India",18-Sep-14,Gold,Food,M,122674
+1223,"Delhi, India",16-Feb-15,Silver,Fuel,F,293919
+1224,"Delhi, India",19-Apr-14,Platinum,Food,M,90633
+1225,"Delhi, India",15-Apr-14,Silver,Entertainment,M,105623
+1226,"Delhi, India",11-May-14,Signature,Food,F,200092
+1227,"Bengaluru, India",16-Jun-14,Gold,Fuel,M,164101
+1228,"Delhi, India",28-Feb-15,Gold,Fuel,F,277295
+1229,"Bengaluru, India",01-Nov-13,Gold,Grocery,F,250112
+1230,"Delhi, India",08-Jan-15,Platinum,Food,M,130761
+1231,"Greater Mumbai, India",16-Oct-13,Platinum,Fuel,M,36807
+1232,"Bengaluru, India",20-Jun-14,Platinum,Bills,F,177903
+1233,"Delhi, India",25-Sep-14,Silver,Fuel,M,223932
+1234,"Delhi, India",07-Dec-14,Gold,Grocery,M,123862
+1235,"Delhi, India",07-Feb-14,Platinum,Bills,M,280491
+1236,"Delhi, India",04-Jan-14,Silver,Fuel,F,255777
+1237,"Ahmedabad, India",02-Sep-14,Platinum,Grocery,M,96297
+1238,"Greater Mumbai, India",27-Aug-14,Silver,Fuel,M,38697
+1239,"Delhi, India",24-May-14,Silver,Bills,F,272424
+1240,"Bengaluru, India",03-Jun-14,Platinum,Bills,M,40611
+1241,"Bengaluru, India",26-Feb-15,Gold,Entertainment,F,256924
+1242,"Delhi, India",15-Dec-13,Gold,Fuel,M,73518
+1243,"Delhi, India",13-Dec-14,Signature,Bills,M,245045
+1244,"Delhi, India",19-Mar-14,Signature,Food,F,65381
+1245,"Ahmedabad, India",02-Nov-13,Signature,Grocery,F,247502
+1246,"Bengaluru, India",30-Mar-15,Silver,Fuel,F,178209
+1247,"Bengaluru, India",03-Nov-14,Gold,Grocery,M,298449
+1248,"Delhi, India",09-Jun-14,Platinum,Food,M,242837
+1249,"Ahmedabad, India",16-Jan-15,Signature,Entertainment,F,278868
+1250,"Delhi, India",03-Aug-14,Gold,Bills,M,191799
+1251,"Ahmedabad, India",02-May-14,Platinum,Bills,F,144913
+1252,"Bengaluru, India",07-Dec-13,Platinum,Entertainment,M,177448
+1253,"Delhi, India",13-Feb-15,Platinum,Entertainment,F,89855
+1254,"Bengaluru, India",31-Jan-15,Gold,Food,F,55295
+1255,"Greater Mumbai, India",18-Nov-14,Gold,Entertainment,F,190805
+1256,"Ahmedabad, India",24-Oct-14,Silver,Grocery,F,47324
+1257,"Greater Mumbai, India",28-Jun-14,Platinum,Food,M,257336
+1258,"Ahmedabad, India",30-Oct-14,Signature,Grocery,F,202073
+1259,"Ahmedabad, India",06-Oct-14,Signature,Entertainment,F,145357
+1260,"Delhi, India",02-May-14,Platinum,Grocery,M,169172
+1261,"Delhi, India",24-Nov-14,Gold,Bills,F,30953
+1262,"Delhi, India",22-Apr-15,Platinum,Entertainment,M,250258
+1263,"Ahmedabad, India",08-Sep-14,Platinum,Bills,F,149847
+1264,"Greater Mumbai, India",08-Mar-14,Platinum,Bills,F,130409
+1265,"Ahmedabad, India",07-Nov-14,Platinum,Bills,F,70170
+1266,"Ahmedabad, India",29-Aug-14,Signature,Fuel,F,57415
+1267,"Greater Mumbai, India",04-May-15,Silver,Grocery,M,50293
+1268,"Ahmedabad, India",21-Aug-14,Platinum,Fuel,F,220119
+1269,"Greater Mumbai, India",22-Jun-14,Silver,Grocery,M,288617
+1270,"Delhi, India",27-May-14,Platinum,Fuel,M,240869
+1271,"Ahmedabad, India",23-May-14,Signature,Food,M,287744
+1272,"Ahmedabad, India",31-Aug-14,Signature,Bills,F,130845
+1273,"Ahmedabad, India",24-Jan-15,Signature,Grocery,M,178220
+1274,"Ahmedabad, India",08-Dec-14,Platinum,Grocery,F,127041
+1275,"Delhi, India",19-Sep-14,Signature,Food,M,66725
+1276,"Bengaluru, India",20-Feb-15,Gold,Fuel,M,228471
+1277,"Ahmedabad, India",26-Apr-14,Platinum,Bills,M,134958
+1278,"Delhi, India",13-Aug-14,Gold,Entertainment,M,240656
+1279,"Greater Mumbai, India",03-Sep-14,Gold,Food,M,27506
+1280,"Greater Mumbai, India",10-Jul-14,Signature,Grocery,F,71711
+1281,"Delhi, India",26-Mar-15,Gold,Food,F,243426
+1282,"Bengaluru, India",14-Mar-14,Signature,Grocery,M,24097
+1283,"Delhi, India",28-Jan-15,Platinum,Entertainment,F,266618
+1284,"Delhi, India",10-Nov-14,Signature,Food,M,261855
+1285,"Delhi, India",09-Jan-15,Silver,Entertainment,M,216995
+1286,"Ahmedabad, India",07-Jan-14,Platinum,Entertainment,F,137538
+1287,"Ahmedabad, India",04-Oct-13,Silver,Entertainment,F,17168
+1288,"Delhi, India",13-Dec-14,Gold,Bills,F,105312
+1289,"Bengaluru, India",28-Sep-14,Silver,Grocery,F,259884
+1290,"Greater Mumbai, India",22-Jan-15,Signature,Grocery,F,144410
+1291,"Ahmedabad, India",10-Nov-13,Platinum,Fuel,M,45027
+1292,"Delhi, India",05-Aug-14,Gold,Food,M,172168
+1293,"Delhi, India",26-Feb-14,Signature,Food,F,270921
+1294,"Bengaluru, India",07-Apr-14,Signature,Bills,F,57907
+1295,"Delhi, India",20-Oct-13,Gold,Fuel,M,218541
+1296,"Bengaluru, India",15-Nov-14,Platinum,Fuel,M,189598
+1297,"Greater Mumbai, India",26-May-14,Gold,Entertainment,M,64509
+1298,"Delhi, India",16-May-15,Signature,Bills,M,96674
+1299,"Ahmedabad, India",30-Oct-14,Platinum,Grocery,M,2998
+1300,"Greater Mumbai, India",01-Oct-14,Gold,Grocery,F,3135
+1301,"Ahmedabad, India",27-Apr-15,Gold,Food,M,203247
+1302,"Greater Mumbai, India",13-Mar-15,Gold,Entertainment,M,149575
+1303,"Ahmedabad, India",02-Aug-14,Platinum,Bills,F,223853
+1304,"Delhi, India",04-Mar-15,Platinum,Entertainment,F,95386
+1305,"Ahmedabad, India",14-Oct-13,Signature,Fuel,M,237189
+1306,"Greater Mumbai, India",11-Feb-14,Gold,Entertainment,F,259064
+1307,"Greater Mumbai, India",02-May-14,Silver,Entertainment,F,35528
+1308,"Greater Mumbai, India",24-May-15,Signature,Entertainment,F,162669
+1309,"Delhi, India",23-Aug-14,Silver,Entertainment,M,9645
+1310,"Bengaluru, India",07-Nov-13,Silver,Grocery,M,233078
+1311,"Bengaluru, India",07-Nov-14,Silver,Grocery,F,189477
+1312,"Bengaluru, India",23-Mar-15,Silver,Grocery,M,8292
+1313,"Greater Mumbai, India",21-Jan-14,Platinum,Food,F,265978
+1314,"Bengaluru, India",29-Jun-14,Signature,Bills,M,221562
+1315,"Bengaluru, India",26-Jan-14,Silver,Bills,F,287543
+1316,"Greater Mumbai, India",02-Oct-14,Signature,Food,M,126063
+1317,"Bengaluru, India",29-Nov-13,Silver,Entertainment,M,76361
+1318,"Ahmedabad, India",09-Mar-14,Platinum,Entertainment,F,138749
+1319,"Delhi, India",10-Dec-13,Platinum,Bills,M,142276
+1320,"Greater Mumbai, India",17-Apr-14,Platinum,Entertainment,M,29971
+1321,"Bengaluru, India",22-May-14,Silver,Bills,F,45639
+1322,"Ahmedabad, India",07-Feb-15,Gold,Fuel,F,284056
+1323,"Bengaluru, India",03-Sep-14,Signature,Food,M,174570
+1324,"Greater Mumbai, India",14-Oct-14,Gold,Food,F,200073
+1325,"Ahmedabad, India",18-Dec-14,Platinum,Fuel,M,67531
+1326,"Delhi, India",20-Jun-14,Silver,Fuel,M,2215
+1327,"Delhi, India",22-Feb-15,Signature,Entertainment,F,251907
+1328,"Delhi, India",01-Apr-14,Signature,Fuel,F,32975
+1329,"Bengaluru, India",07-Jan-15,Gold,Bills,F,291275
+1330,"Bengaluru, India",29-Apr-15,Signature,Food,M,40861
+1331,"Ahmedabad, India",15-Jan-14,Signature,Bills,M,239456
+1332,"Delhi, India",06-Feb-14,Platinum,Grocery,M,127893
+1333,"Delhi, India",02-Jan-15,Signature,Food,F,154073
+1334,"Greater Mumbai, India",30-Oct-13,Silver,Entertainment,M,38504
+1335,"Greater Mumbai, India",20-Nov-13,Gold,Entertainment,F,64282
+1336,"Greater Mumbai, India",11-Mar-14,Platinum,Fuel,F,164200
+1337,"Ahmedabad, India",17-Dec-13,Gold,Bills,M,3386
+1338,"Delhi, India",07-Feb-15,Gold,Entertainment,F,255680
+1339,"Greater Mumbai, India",23-Nov-14,Gold,Food,M,200007
+1340,"Bengaluru, India",10-Mar-15,Gold,Fuel,M,173553
+1341,"Greater Mumbai, India",13-Feb-14,Signature,Bills,F,264936
+1342,"Delhi, India",27-Mar-15,Platinum,Bills,F,33272
+1343,"Bengaluru, India",27-Dec-14,Signature,Fuel,M,78442
+1344,"Delhi, India",13-Jul-14,Silver,Grocery,F,129130
+1345,"Ahmedabad, India",15-May-14,Signature,Grocery,F,296168
+1346,"Greater Mumbai, India",23-Nov-13,Platinum,Food,M,58915
+1347,"Delhi, India",01-Nov-13,Silver,Entertainment,F,254156
+1348,"Ahmedabad, India",09-Oct-13,Signature,Food,F,20408
+1349,"Bengaluru, India",25-May-15,Platinum,Fuel,M,167042
+1350,"Ahmedabad, India",15-Sep-14,Gold,Bills,M,173818
+1351,"Delhi, India",19-May-14,Platinum,Entertainment,F,242394
+1352,"Delhi, India",22-Dec-13,Signature,Grocery,F,32441
+1353,"Bengaluru, India",18-Nov-13,Gold,Bills,F,242288
+1354,"Ahmedabad, India",27-Jun-14,Gold,Bills,M,47509
+1355,"Ahmedabad, India",04-Dec-13,Silver,Grocery,F,83531
+1356,"Delhi, India",16-Jan-15,Platinum,Bills,M,200728
+1357,"Bengaluru, India",08-Sep-14,Signature,Entertainment,M,78691
+1358,"Bengaluru, India",02-Feb-15,Signature,Entertainment,F,88156
+1359,"Delhi, India",24-Dec-13,Signature,Grocery,F,142698
+1360,"Bengaluru, India",12-Feb-15,Gold,Food,M,297842
+1361,"Bengaluru, India",07-Mar-15,Platinum,Entertainment,M,233099
+1362,"Greater Mumbai, India",03-Feb-15,Signature,Grocery,M,11516
+1363,"Ahmedabad, India",21-Sep-14,Gold,Grocery,F,38521
+1364,"Greater Mumbai, India",06-Dec-14,Platinum,Fuel,F,205539
+1365,"Delhi, India",04-Oct-14,Gold,Grocery,F,11379
+1366,"Greater Mumbai, India",25-Dec-13,Signature,Fuel,F,262459
+1367,"Delhi, India",23-Jan-15,Platinum,Entertainment,F,163604
+1368,"Delhi, India",31-Jul-14,Silver,Fuel,F,236202
+1369,"Delhi, India",04-Jul-14,Signature,Bills,F,229937
+1370,"Delhi, India",10-Dec-14,Signature,Bills,F,263528
+1371,"Bengaluru, India",04-Nov-14,Signature,Grocery,M,177198
+1372,"Ahmedabad, India",08-Jan-15,Gold,Bills,M,245460
+1373,"Greater Mumbai, India",12-Jan-15,Signature,Entertainment,M,203309
+1374,"Bengaluru, India",11-Oct-13,Signature,Bills,F,182330
+1375,"Ahmedabad, India",16-Dec-14,Gold,Food,F,274624
+1376,"Delhi, India",26-Apr-15,Gold,Food,F,223541
+1377,"Ahmedabad, India",04-Mar-15,Platinum,Food,M,175059
+1378,"Greater Mumbai, India",15-Apr-15,Signature,Grocery,M,68618
+1379,"Ahmedabad, India",18-Jul-14,Signature,Food,M,101495
+1380,"Delhi, India",11-Nov-13,Gold,Fuel,M,258034
+1381,"Greater Mumbai, India",08-Dec-13,Gold,Grocery,M,93823
+1382,"Greater Mumbai, India",31-Dec-13,Platinum,Food,M,256335
+1383,"Ahmedabad, India",12-Dec-14,Platinum,Fuel,M,43230
+1384,"Greater Mumbai, India",08-Dec-13,Gold,Food,F,27156
+1385,"Delhi, India",11-Aug-14,Platinum,Entertainment,M,263221
+1386,"Delhi, India",15-Oct-13,Platinum,Grocery,M,137925
+1387,"Greater Mumbai, India",07-Jan-14,Gold,Food,M,63211
+1388,"Delhi, India",20-Jan-14,Gold,Grocery,M,54337
+1389,"Delhi, India",14-Oct-13,Silver,Bills,M,185861
+1390,"Greater Mumbai, India",06-May-15,Gold,Bills,F,92895
+1391,"Greater Mumbai, India",02-Jul-14,Silver,Entertainment,F,225595
+1392,"Delhi, India",28-Jan-14,Signature,Entertainment,F,114523
+1393,"Greater Mumbai, India",10-Jan-15,Silver,Bills,M,67576
+1394,"Delhi, India",15-Apr-15,Signature,Fuel,M,69333
+1395,"Greater Mumbai, India",28-Aug-14,Silver,Grocery,F,124896
+1396,"Bengaluru, India",08-Feb-14,Silver,Bills,F,92794
+1397,"Greater Mumbai, India",08-Feb-14,Gold,Fuel,M,130982
+1398,"Delhi, India",05-Apr-15,Signature,Grocery,M,116802
+1399,"Greater Mumbai, India",16-Apr-15,Gold,Grocery,M,181921
+1400,"Delhi, India",19-Jul-14,Signature,Bills,M,248399
+1401,"Greater Mumbai, India",19-Feb-14,Silver,Entertainment,M,278038
+1402,"Bengaluru, India",21-Oct-13,Gold,Fuel,F,150431
+1403,"Ahmedabad, India",04-Jan-15,Silver,Grocery,F,69556
+1404,"Bengaluru, India",03-Feb-15,Platinum,Bills,F,298870
+1405,"Greater Mumbai, India",02-Jun-14,Gold,Grocery,F,4732
+1406,"Bengaluru, India",13-Nov-14,Silver,Fuel,M,263803
+1407,"Bengaluru, India",27-Sep-14,Silver,Bills,F,168736
+1408,"Ahmedabad, India",19-Dec-13,Silver,Food,F,15694
+1409,"Bengaluru, India",19-Mar-15,Silver,Bills,F,153334
+1410,"Greater Mumbai, India",01-Dec-13,Gold,Entertainment,M,129822
+1411,"Ahmedabad, India",21-May-14,Silver,Bills,F,216543
+1412,"Delhi, India",06-Dec-14,Gold,Fuel,M,296286
+1413,"Ahmedabad, India",07-Jan-14,Gold,Food,M,263785
+1414,"Greater Mumbai, India",03-Mar-14,Signature,Food,F,149618
+1415,"Greater Mumbai, India",20-Feb-15,Silver,Bills,M,229431
+1416,"Bengaluru, India",27-Feb-14,Platinum,Grocery,M,148330
+1417,"Bengaluru, India",15-Apr-14,Silver,Entertainment,M,249348
+1418,"Greater Mumbai, India",06-May-14,Gold,Bills,M,169990
+1419,"Bengaluru, India",30-Sep-14,Silver,Entertainment,M,109721
+1420,"Bengaluru, India",14-Sep-14,Silver,Food,M,206115
+1421,"Ahmedabad, India",25-Mar-15,Signature,Entertainment,M,115117
+1422,"Ahmedabad, India",02-Apr-14,Platinum,Grocery,M,182098
+1423,"Greater Mumbai, India",09-Jan-15,Gold,Fuel,M,292654
+1424,"Delhi, India",20-Mar-14,Platinum,Food,M,99446
+1425,"Bengaluru, India",10-Oct-14,Signature,Fuel,F,209564
+1426,"Delhi, India",29-Oct-13,Signature,Bills,F,48176
+1427,"Greater Mumbai, India",28-Nov-13,Platinum,Grocery,F,133180
+1428,"Greater Mumbai, India",23-Apr-14,Platinum,Entertainment,M,46361
+1429,"Ahmedabad, India",30-Jan-15,Silver,Grocery,F,94948
+1430,"Ahmedabad, India",11-Jan-15,Signature,Food,M,39908
+1431,"Ahmedabad, India",13-Jan-15,Platinum,Entertainment,M,37350
+1432,"Bengaluru, India",02-Dec-14,Gold,Grocery,F,165928
+1433,"Delhi, India",27-Nov-14,Silver,Grocery,F,125764
+1434,"Delhi, India",25-Oct-13,Silver,Entertainment,M,233984
+1435,"Greater Mumbai, India",23-Dec-13,Platinum,Entertainment,M,264802
+1436,"Bengaluru, India",21-May-14,Silver,Fuel,F,140221
+1437,"Delhi, India",18-Jan-14,Silver,Entertainment,M,293272
+1438,"Greater Mumbai, India",26-Jul-14,Silver,Entertainment,M,179924
+1439,"Greater Mumbai, India",21-Dec-14,Platinum,Food,M,152109
+1440,"Greater Mumbai, India",11-Mar-14,Gold,Food,F,294381
+1441,"Greater Mumbai, India",23-Jul-14,Silver,Fuel,M,110778
+1442,"Delhi, India",04-Apr-15,Gold,Fuel,M,152157
+1443,"Greater Mumbai, India",07-Feb-14,Silver,Food,M,182214
+1444,"Greater Mumbai, India",06-Jul-14,Gold,Entertainment,M,108199
+1445,"Greater Mumbai, India",05-Nov-13,Signature,Food,M,288390
+1446,"Ahmedabad, India",27-Apr-15,Gold,Grocery,F,118176
+1447,"Delhi, India",23-Mar-14,Silver,Food,M,204604
+1448,"Delhi, India",06-Dec-13,Signature,Grocery,M,239209
+1449,"Ahmedabad, India",29-Jan-15,Platinum,Bills,M,226908
+1450,"Delhi, India",06-Jun-14,Platinum,Food,F,89742
+1451,"Bengaluru, India",11-Apr-14,Signature,Entertainment,F,2469
+1452,"Ahmedabad, India",24-Dec-13,Gold,Food,F,298250
+1453,"Delhi, India",10-Feb-15,Platinum,Bills,M,143828
+1454,"Ahmedabad, India",18-Feb-14,Platinum,Grocery,M,21337
+1455,"Bengaluru, India",16-Oct-14,Signature,Entertainment,M,44937
+1456,"Greater Mumbai, India",09-Feb-14,Silver,Bills,M,205380
+1457,"Ahmedabad, India",21-May-14,Gold,Food,F,14277
+1458,"Greater Mumbai, India",05-Nov-14,Gold,Bills,M,226017
+1459,"Delhi, India",14-Oct-13,Signature,Bills,F,290065
+1460,"Ahmedabad, India",30-Mar-15,Platinum,Grocery,M,93015
+1461,"Greater Mumbai, India",03-Sep-14,Gold,Entertainment,F,133234
+1462,"Delhi, India",24-Oct-14,Silver,Fuel,F,31694
+1463,"Delhi, India",08-Oct-13,Signature,Bills,F,117144
+1464,"Bengaluru, India",24-Mar-14,Signature,Entertainment,M,214433
+1465,"Ahmedabad, India",04-Mar-14,Silver,Bills,F,250085
+1466,"Ahmedabad, India",01-Dec-13,Signature,Food,F,237938
+1467,"Greater Mumbai, India",18-Aug-14,Gold,Bills,M,169137
+1468,"Bengaluru, India",20-Apr-14,Platinum,Fuel,M,27278
+1469,"Delhi, India",07-Nov-13,Platinum,Bills,M,156518
+1470,"Greater Mumbai, India",02-Dec-14,Silver,Food,F,184570
+1471,"Greater Mumbai, India",14-May-14,Signature,Bills,M,207000
+1472,"Bengaluru, India",16-Jul-14,Gold,Entertainment,F,106923
+1473,"Bengaluru, India",04-Feb-15,Silver,Food,M,139427
+1474,"Delhi, India",05-Jan-14,Signature,Grocery,M,274026
+1475,"Bengaluru, India",07-Apr-14,Platinum,Fuel,M,105993
+1476,"Delhi, India",09-Feb-14,Platinum,Bills,F,121012
+1477,"Greater Mumbai, India",22-Jan-15,Signature,Bills,M,14334
+1478,"Bengaluru, India",16-Dec-14,Platinum,Bills,F,286820
+1479,"Ahmedabad, India",28-Sep-14,Signature,Grocery,M,231234
+1480,"Delhi, India",26-Dec-13,Signature,Food,F,80059
+1481,"Greater Mumbai, India",27-Feb-14,Gold,Fuel,F,16604
+1482,"Greater Mumbai, India",26-Feb-15,Platinum,Food,M,219062
+1483,"Ahmedabad, India",28-Sep-14,Silver,Food,M,18215
+1484,"Bengaluru, India",14-Mar-15,Silver,Food,F,265386
+1485,"Ahmedabad, India",05-May-14,Silver,Food,M,142417
+1486,"Ahmedabad, India",24-Aug-14,Signature,Food,F,167931
+1487,"Bengaluru, India",25-Oct-13,Gold,Grocery,F,271783
+1488,"Bengaluru, India",14-Jan-15,Gold,Food,M,99507
+1489,"Delhi, India",23-Mar-15,Platinum,Entertainment,M,231213
+1490,"Bengaluru, India",26-Jun-14,Silver,Bills,F,188504
+1491,"Greater Mumbai, India",21-Apr-15,Platinum,Bills,F,183125
+1492,"Delhi, India",18-Dec-13,Silver,Grocery,F,146001
+1493,"Ahmedabad, India",09-Jul-14,Silver,Grocery,M,258089
+1494,"Greater Mumbai, India",03-Nov-13,Platinum,Entertainment,M,83076
+1495,"Delhi, India",29-Nov-14,Silver,Food,M,151476
+1496,"Bengaluru, India",23-Jan-15,Platinum,Food,M,173769
+1497,"Greater Mumbai, India",10-Oct-14,Gold,Bills,F,104397
+1498,"Delhi, India",22-Apr-14,Silver,Bills,M,156269
+1499,"Bengaluru, India",14-Apr-15,Signature,Entertainment,M,257298
+1500,"Ahmedabad, India",11-Oct-14,Gold,Grocery,M,218367
+1501,"Delhi, India",16-Dec-14,Signature,Fuel,M,147691
+1502,"Delhi, India",27-Jun-14,Gold,Food,M,262967
+1503,"Bengaluru, India",03-May-14,Gold,Bills,F,51737
+1504,"Greater Mumbai, India",17-Aug-14,Silver,Grocery,F,262366
+1505,"Bengaluru, India",12-Oct-13,Silver,Fuel,M,260855
+1506,"Delhi, India",22-Feb-15,Platinum,Bills,M,263045
+1507,"Greater Mumbai, India",29-May-14,Gold,Fuel,M,126328
+1508,"Delhi, India",23-Apr-14,Gold,Fuel,F,6513
+1509,"Bengaluru, India",19-May-15,Silver,Food,M,165868
+1510,"Delhi, India",03-Aug-14,Signature,Grocery,F,83353
+1511,"Greater Mumbai, India",30-Apr-14,Gold,Bills,F,1056
+1512,"Ahmedabad, India",31-Jan-14,Gold,Food,M,270988
+1513,"Ahmedabad, India",03-May-14,Signature,Bills,M,38040
+1514,"Delhi, India",24-Nov-14,Silver,Fuel,M,16049
+1515,"Ahmedabad, India",20-Dec-13,Signature,Food,M,100310
+1516,"Ahmedabad, India",31-Dec-13,Platinum,Fuel,F,227672
+1517,"Delhi, India",14-May-15,Platinum,Entertainment,F,158767
+1518,"Delhi, India",16-Oct-14,Signature,Fuel,M,288390
+1519,"Bengaluru, India",06-Nov-14,Gold,Food,M,74125
+1520,"Ahmedabad, India",01-Jun-14,Signature,Bills,M,36240
+1521,"Delhi, India",09-May-15,Signature,Entertainment,F,119126
+1522,"Delhi, India",12-Apr-14,Silver,Entertainment,M,84161
+1523,"Bengaluru, India",02-Sep-14,Signature,Entertainment,F,94093
+1524,"Bengaluru, India",12-Apr-14,Signature,Bills,F,84189
+1525,"Bengaluru, India",18-Apr-15,Gold,Entertainment,M,156016
+1526,"Ahmedabad, India",03-Nov-13,Gold,Grocery,F,178941
+1527,"Ahmedabad, India",09-Apr-14,Platinum,Food,F,138852
+1528,"Greater Mumbai, India",26-Nov-14,Gold,Entertainment,F,167149
+1529,"Delhi, India",31-Dec-13,Silver,Bills,F,31202
+1530,"Greater Mumbai, India",11-Jul-14,Gold,Fuel,F,177232
+1531,"Ahmedabad, India",24-Feb-15,Gold,Fuel,F,93822
+1532,"Greater Mumbai, India",29-Oct-13,Platinum,Grocery,M,124882
+1533,"Delhi, India",21-Dec-14,Gold,Bills,F,59689
+1534,"Delhi, India",02-Jul-14,Signature,Fuel,M,84127
+1535,"Ahmedabad, India",01-Mar-14,Gold,Entertainment,F,211532
+1536,"Delhi, India",21-Dec-14,Silver,Grocery,M,189659
+1537,"Greater Mumbai, India",17-Apr-15,Silver,Fuel,M,119541
+1538,"Bengaluru, India",07-Jan-14,Silver,Grocery,F,103709
+1539,"Ahmedabad, India",22-Oct-14,Platinum,Grocery,F,178746
+1540,"Ahmedabad, India",16-May-14,Gold,Fuel,F,111732
+1541,"Ahmedabad, India",12-Mar-14,Silver,Grocery,F,261416
+1542,"Greater Mumbai, India",08-Nov-14,Signature,Entertainment,M,165775
+1543,"Bengaluru, India",19-Sep-14,Signature,Grocery,M,241039
+1544,"Delhi, India",15-Apr-14,Silver,Bills,F,4467
+1545,"Ahmedabad, India",14-Dec-13,Silver,Fuel,M,183722
+1546,"Bengaluru, India",27-Feb-14,Signature,Grocery,M,132275
+1547,"Delhi, India",06-Feb-14,Platinum,Bills,M,162517
+1548,"Bengaluru, India",28-Oct-14,Platinum,Grocery,F,200238
+1549,"Ahmedabad, India",08-Aug-14,Signature,Grocery,M,181311
+1550,"Ahmedabad, India",24-Mar-14,Platinum,Entertainment,F,167964
+1551,"Ahmedabad, India",26-Nov-14,Gold,Bills,F,24893
+1552,"Delhi, India",15-Feb-15,Signature,Fuel,M,35233
+1553,"Greater Mumbai, India",22-Oct-14,Platinum,Entertainment,M,79097
+1554,"Bengaluru, India",23-Mar-15,Silver,Entertainment,M,274120
+1555,"Bengaluru, India",15-Feb-14,Signature,Grocery,F,169003
+1556,"Delhi, India",12-Apr-14,Silver,Bills,F,204842
+1557,"Delhi, India",18-Feb-15,Gold,Food,M,69712
+1558,"Greater Mumbai, India",29-Jan-15,Platinum,Entertainment,F,54937
+1559,"Delhi, India",01-Feb-14,Silver,Fuel,F,263493
+1560,"Bengaluru, India",31-Oct-14,Gold,Fuel,M,56533
+1561,"Bengaluru, India",02-Apr-14,Gold,Food,M,268451
+1562,"Ahmedabad, India",25-Apr-14,Signature,Food,F,88575
+1563,"Bengaluru, India",17-Dec-14,Silver,Entertainment,M,164258
+1564,"Delhi, India",24-Feb-15,Silver,Food,M,15121
+1565,"Delhi, India",25-Apr-15,Signature,Bills,F,244345
+1566,"Greater Mumbai, India",06-Jul-14,Signature,Grocery,F,179801
+1567,"Bengaluru, India",31-Jan-14,Gold,Entertainment,F,254756
+1568,"Ahmedabad, India",22-Apr-14,Silver,Food,F,38016
+1569,"Delhi, India",14-Apr-14,Gold,Food,M,22473
+1570,"Greater Mumbai, India",23-Jul-14,Signature,Entertainment,F,263260
+1571,"Greater Mumbai, India",05-Nov-13,Gold,Bills,M,15314
+1572,"Delhi, India",15-May-14,Silver,Entertainment,F,242764
+1573,"Bengaluru, India",02-Dec-13,Silver,Entertainment,F,1074
+1574,"Greater Mumbai, India",25-Dec-13,Silver,Entertainment,F,299602
+1575,"Ahmedabad, India",11-Mar-15,Platinum,Fuel,M,131136
+1576,"Delhi, India",01-Mar-15,Signature,Grocery,M,237429
+1577,"Ahmedabad, India",25-May-14,Signature,Bills,F,189227
+1578,"Bengaluru, India",23-Mar-14,Silver,Entertainment,M,285600
+1579,"Delhi, India",11-Mar-14,Signature,Grocery,M,184864
+1580,"Ahmedabad, India",03-Sep-14,Signature,Bills,F,169870
+1581,"Ahmedabad, India",15-Sep-14,Platinum,Food,M,43023
+1582,"Ahmedabad, India",07-Apr-15,Signature,Bills,M,112875
+1583,"Ahmedabad, India",28-Jan-15,Gold,Fuel,F,259750
+1584,"Greater Mumbai, India",23-Apr-14,Silver,Fuel,M,193861
+1585,"Delhi, India",16-May-15,Platinum,Bills,F,130026
+1586,"Delhi, India",10-May-14,Gold,Fuel,M,126162
+1587,"Delhi, India",23-Oct-14,Silver,Fuel,F,106499
+1588,"Bengaluru, India",17-Oct-14,Signature,Entertainment,F,240451
+1589,"Bengaluru, India",29-Sep-14,Signature,Bills,M,25009
+1590,"Delhi, India",05-Feb-14,Gold,Food,F,35383
+1591,"Ahmedabad, India",23-Sep-14,Silver,Bills,F,260429
+1592,"Bengaluru, India",29-Apr-14,Silver,Food,M,260176
+1593,"Bengaluru, India",23-Mar-14,Platinum,Food,F,259357
+1594,"Delhi, India",26-Jun-14,Gold,Entertainment,F,61646
+1595,"Delhi, India",21-Dec-14,Platinum,Food,F,231143
+1596,"Ahmedabad, India",22-Jan-14,Silver,Fuel,M,199098
+1597,"Bengaluru, India",15-Aug-14,Platinum,Fuel,F,29472
+1598,"Delhi, India",26-Mar-14,Signature,Grocery,F,288615
+1599,"Ahmedabad, India",11-Oct-14,Silver,Fuel,M,47164
+1600,"Delhi, India",20-Jan-14,Signature,Entertainment,M,94777
+1601,"Bengaluru, India",04-Apr-14,Gold,Food,M,270008
+1602,"Greater Mumbai, India",15-Oct-13,Platinum,Bills,M,229198
+1603,"Ahmedabad, India",13-Jan-14,Platinum,Bills,M,59010
+1604,"Bengaluru, India",20-May-14,Silver,Fuel,F,192017
+1605,"Ahmedabad, India",06-Mar-14,Gold,Food,M,106653
+1606,"Greater Mumbai, India",26-Nov-13,Signature,Food,M,28996
+1607,"Greater Mumbai, India",26-Jul-14,Platinum,Food,F,184279
+1608,"Greater Mumbai, India",26-May-15,Signature,Entertainment,F,28616
+1609,"Ahmedabad, India",30-Mar-14,Signature,Entertainment,M,247876
+1610,"Bengaluru, India",22-Jun-14,Signature,Entertainment,F,283678
+1611,"Greater Mumbai, India",27-Oct-14,Platinum,Food,M,297657
+1612,"Ahmedabad, India",21-Mar-15,Platinum,Food,F,125570
+1613,"Greater Mumbai, India",26-Nov-13,Platinum,Bills,F,251563
+1614,"Greater Mumbai, India",30-Aug-14,Gold,Fuel,M,104840
+1615,"Ahmedabad, India",23-Nov-13,Platinum,Bills,M,202135
+1616,"Delhi, India",22-Nov-14,Signature,Food,F,77711
+1617,"Delhi, India",30-Dec-14,Gold,Bills,F,14863
+1618,"Greater Mumbai, India",13-Dec-14,Silver,Grocery,M,288098
+1619,"Bengaluru, India",20-Aug-14,Silver,Food,M,94600
+1620,"Greater Mumbai, India",06-Oct-13,Silver,Entertainment,M,223491
+1621,"Bengaluru, India",26-Mar-15,Silver,Food,M,204546
+1622,"Bengaluru, India",05-Feb-14,Gold,Fuel,M,71739
+1623,"Bengaluru, India",09-Feb-14,Gold,Food,F,236393
+1624,"Greater Mumbai, India",23-Mar-15,Gold,Entertainment,F,148784
+1625,"Bengaluru, India",15-Mar-15,Gold,Food,M,50734
+1626,"Bengaluru, India",28-Feb-15,Gold,Bills,M,154059
+1627,"Delhi, India",21-Feb-15,Gold,Bills,M,26140
+1628,"Bengaluru, India",01-Feb-15,Gold,Bills,M,70524
+1629,"Bengaluru, India",03-Apr-15,Platinum,Fuel,M,86861
+1630,"Greater Mumbai, India",16-May-15,Signature,Entertainment,M,142768
+1631,"Ahmedabad, India",30-Aug-14,Silver,Fuel,F,2927
+1632,"Ahmedabad, India",04-Aug-14,Silver,Grocery,F,86445
+1633,"Bengaluru, India",11-Apr-15,Signature,Fuel,M,127105
+1634,"Ahmedabad, India",19-Feb-15,Platinum,Grocery,F,288609
+1635,"Bengaluru, India",20-Jan-14,Silver,Food,M,57826
+1636,"Delhi, India",07-Mar-14,Platinum,Bills,F,179306
+1637,"Greater Mumbai, India",10-Mar-15,Silver,Bills,F,223918
+1638,"Greater Mumbai, India",09-May-14,Platinum,Fuel,F,260232
+1639,"Greater Mumbai, India",17-Feb-15,Signature,Entertainment,F,272727
+1640,"Delhi, India",09-Oct-13,Silver,Entertainment,F,70818
+1641,"Delhi, India",29-Jul-14,Platinum,Fuel,F,69598
+1642,"Greater Mumbai, India",07-May-15,Silver,Fuel,F,47031
+1643,"Delhi, India",24-Mar-15,Gold,Bills,M,225544
+1644,"Greater Mumbai, India",15-Apr-14,Signature,Food,M,119945
+1645,"Greater Mumbai, India",31-Jan-14,Signature,Fuel,M,268683
+1646,"Delhi, India",29-Dec-14,Silver,Bills,M,1921
+1647,"Ahmedabad, India",25-Jun-14,Silver,Fuel,F,200435
+1648,"Ahmedabad, India",12-Feb-15,Gold,Fuel,F,1038
+1649,"Greater Mumbai, India",11-May-15,Platinum,Food,M,221277
+1650,"Delhi, India",07-May-14,Signature,Entertainment,M,279437
+1651,"Greater Mumbai, India",03-Nov-14,Silver,Fuel,M,294413
+1652,"Delhi, India",22-Jan-14,Signature,Entertainment,M,134130
+1653,"Greater Mumbai, India",04-Feb-15,Platinum,Grocery,M,59330
+1654,"Greater Mumbai, India",02-Sep-14,Silver,Entertainment,M,77510
+1655,"Bengaluru, India",05-Oct-13,Gold,Entertainment,M,264301
+1656,"Bengaluru, India",11-May-15,Gold,Entertainment,F,124384
+1657,"Delhi, India",12-Mar-14,Gold,Fuel,F,176366
+1658,"Delhi, India",30-Oct-14,Signature,Fuel,F,158155
+1659,"Ahmedabad, India",09-Jan-15,Gold,Fuel,F,295383
+1660,"Delhi, India",04-Jun-14,Platinum,Fuel,M,235046
+1661,"Greater Mumbai, India",19-Dec-14,Silver,Fuel,F,63304
+1662,"Ahmedabad, India",15-Mar-15,Silver,Food,M,80962
+1663,"Delhi, India",20-Feb-14,Silver,Food,M,98978
+1664,"Bengaluru, India",12-Jun-14,Platinum,Entertainment,M,74176
+1665,"Ahmedabad, India",22-Mar-14,Silver,Entertainment,F,122419
+1666,"Bengaluru, India",15-May-15,Gold,Fuel,F,294497
+1667,"Ahmedabad, India",20-Feb-14,Gold,Bills,M,24108
+1668,"Ahmedabad, India",12-Jan-15,Silver,Grocery,F,135275
+1669,"Greater Mumbai, India",11-Mar-15,Silver,Entertainment,F,267109
+1670,"Greater Mumbai, India",28-Dec-14,Silver,Food,M,213380
+1671,"Greater Mumbai, India",25-Mar-15,Signature,Grocery,F,56677
+1672,"Greater Mumbai, India",11-Oct-14,Silver,Entertainment,M,148897
+1673,"Bengaluru, India",01-May-14,Silver,Grocery,M,7076
+1674,"Ahmedabad, India",29-Mar-15,Gold,Bills,M,215477
+1675,"Greater Mumbai, India",09-Mar-15,Silver,Fuel,F,163670
+1676,"Delhi, India",23-Oct-14,Platinum,Grocery,F,21699
+1677,"Ahmedabad, India",21-Dec-13,Signature,Food,M,131453
+1678,"Delhi, India",08-Nov-14,Signature,Grocery,F,206680
+1679,"Ahmedabad, India",17-Dec-13,Signature,Grocery,F,11689
+1680,"Greater Mumbai, India",12-Feb-14,Platinum,Food,F,63166
+1681,"Bengaluru, India",18-Dec-14,Platinum,Bills,M,46238
+1682,"Bengaluru, India",04-May-15,Platinum,Entertainment,F,107596
+1683,"Bengaluru, India",06-Feb-15,Gold,Fuel,F,173517
+1684,"Ahmedabad, India",11-Dec-13,Signature,Grocery,F,227745
+1685,"Delhi, India",26-Dec-13,Platinum,Fuel,M,32960
+1686,"Ahmedabad, India",10-Mar-15,Signature,Grocery,M,232224
+1687,"Bengaluru, India",10-May-14,Silver,Bills,M,70587
+1688,"Bengaluru, India",18-May-14,Gold,Bills,F,66180
+1689,"Ahmedabad, India",24-Nov-13,Platinum,Bills,M,242557
+1690,"Ahmedabad, India",23-Oct-13,Silver,Food,F,259535
+1691,"Bengaluru, India",25-Jun-14,Silver,Food,M,77264
+1692,"Delhi, India",25-Aug-14,Silver,Entertainment,M,148690
+1693,"Ahmedabad, India",12-Jan-14,Gold,Entertainment,M,229828
+1694,"Delhi, India",09-Dec-14,Signature,Food,M,164737
+1695,"Greater Mumbai, India",08-Dec-14,Platinum,Grocery,M,190142
+1696,"Bengaluru, India",28-Dec-13,Gold,Food,M,287542
+1697,"Greater Mumbai, India",08-Jun-14,Signature,Bills,M,137778
+1698,"Delhi, India",10-May-14,Gold,Entertainment,M,143158
+1699,"Greater Mumbai, India",05-Jan-14,Signature,Bills,F,49523
+1700,"Ahmedabad, India",28-Apr-15,Platinum,Bills,M,114982
+1701,"Bengaluru, India",17-Mar-15,Signature,Entertainment,M,179755
+1702,"Ahmedabad, India",01-Dec-13,Platinum,Bills,F,190943
+1703,"Bengaluru, India",02-Aug-14,Platinum,Grocery,F,133270
+1704,"Bengaluru, India",17-May-15,Platinum,Grocery,F,278444
+1705,"Bengaluru, India",04-May-14,Silver,Entertainment,F,76216
+1706,"Greater Mumbai, India",16-Feb-14,Signature,Fuel,F,82924
+1707,"Bengaluru, India",28-Apr-14,Gold,Bills,F,79125
+1708,"Greater Mumbai, India",15-Mar-14,Signature,Entertainment,F,245169
+1709,"Delhi, India",24-Jul-14,Silver,Bills,F,205940
+1710,"Ahmedabad, India",07-Feb-14,Platinum,Food,F,104816
+1711,"Ahmedabad, India",12-May-14,Platinum,Entertainment,F,7460
+1712,"Bengaluru, India",28-Mar-15,Gold,Food,M,75859
+1713,"Delhi, India",16-Dec-14,Gold,Bills,F,88457
+1714,"Ahmedabad, India",15-May-15,Silver,Grocery,F,98814
+1715,"Ahmedabad, India",24-Apr-15,Platinum,Bills,F,91320
+1716,"Ahmedabad, India",07-Jan-15,Platinum,Grocery,F,121503
+1717,"Greater Mumbai, India",16-Dec-14,Platinum,Food,M,119817
+1718,"Delhi, India",26-Aug-14,Signature,Bills,F,49676
+1719,"Ahmedabad, India",16-Dec-13,Silver,Fuel,M,60266
+1720,"Ahmedabad, India",03-Mar-14,Silver,Grocery,M,252859
+1721,"Delhi, India",05-Nov-13,Gold,Entertainment,M,135165
+1722,"Bengaluru, India",24-Apr-15,Platinum,Entertainment,F,176742
+1723,"Delhi, India",31-May-14,Silver,Fuel,M,70308
+1724,"Ahmedabad, India",01-Mar-14,Silver,Entertainment,F,67253
+1725,"Greater Mumbai, India",15-Oct-14,Platinum,Entertainment,M,123744
+1726,"Greater Mumbai, India",26-Apr-14,Gold,Fuel,M,216295
+1727,"Bengaluru, India",07-Nov-14,Gold,Grocery,F,299920
+1728,"Greater Mumbai, India",26-Sep-14,Signature,Entertainment,M,208640
+1729,"Bengaluru, India",09-Mar-14,Gold,Food,F,169681
+1730,"Ahmedabad, India",05-Nov-13,Platinum,Entertainment,F,244384
+1731,"Ahmedabad, India",15-Aug-14,Silver,Grocery,M,256534
+1732,"Bengaluru, India",26-Dec-14,Platinum,Fuel,F,230798
+1733,"Greater Mumbai, India",18-Oct-14,Gold,Food,F,216961
+1734,"Greater Mumbai, India",10-Mar-14,Silver,Grocery,F,86778
+1735,"Greater Mumbai, India",24-Mar-14,Signature,Bills,F,168061
+1736,"Greater Mumbai, India",18-Sep-14,Gold,Entertainment,M,225892
+1737,"Delhi, India",31-Oct-13,Gold,Grocery,F,166138
+1738,"Greater Mumbai, India",06-Oct-14,Signature,Food,M,76550
+1739,"Delhi, India",10-Oct-14,Gold,Food,M,26285
+1740,"Delhi, India",22-Apr-14,Silver,Grocery,F,130604
+1741,"Ahmedabad, India",06-Nov-13,Gold,Food,M,151934
+1742,"Bengaluru, India",11-Jan-15,Platinum,Food,M,119832
+1743,"Bengaluru, India",03-May-15,Silver,Food,F,98571
+1744,"Bengaluru, India",11-Nov-13,Platinum,Grocery,F,177645
+1745,"Bengaluru, India",13-Dec-14,Gold,Grocery,M,64885
+1746,"Ahmedabad, India",20-Jun-14,Silver,Grocery,F,218942
+1747,"Greater Mumbai, India",03-Sep-14,Signature,Grocery,M,143938
+1748,"Bengaluru, India",15-Apr-15,Gold,Entertainment,M,95120
+1749,"Greater Mumbai, India",20-Apr-15,Signature,Food,F,50736
+1750,"Ahmedabad, India",15-May-14,Gold,Bills,F,269192
+1751,"Delhi, India",15-Sep-14,Gold,Food,M,184935
+1752,"Delhi, India",17-Oct-14,Platinum,Fuel,F,218760
+1753,"Greater Mumbai, India",12-Oct-13,Gold,Food,F,45191
+1754,"Ahmedabad, India",20-Apr-14,Silver,Entertainment,F,49660
+1755,"Bengaluru, India",25-Dec-13,Silver,Fuel,F,49988
+1756,"Greater Mumbai, India",18-Jun-14,Signature,Grocery,M,103572
+1757,"Bengaluru, India",20-Sep-14,Platinum,Bills,F,248257
+1758,"Bengaluru, India",25-Oct-14,Platinum,Food,M,288269
+1759,"Greater Mumbai, India",02-Mar-15,Platinum,Food,F,170297
+1760,"Delhi, India",09-Oct-13,Gold,Food,F,295917
+1761,"Greater Mumbai, India",12-Nov-14,Platinum,Fuel,M,50416
+1762,"Delhi, India",06-Oct-13,Signature,Food,F,156519
+1763,"Ahmedabad, India",30-Nov-13,Platinum,Bills,M,122906
+1764,"Ahmedabad, India",08-Apr-14,Signature,Entertainment,F,231969
+1765,"Bengaluru, India",21-Oct-13,Gold,Bills,F,290022
+1766,"Delhi, India",18-Mar-15,Platinum,Food,F,63691
+1767,"Greater Mumbai, India",06-Jun-14,Silver,Fuel,F,193602
+1768,"Ahmedabad, India",03-Apr-14,Gold,Fuel,F,176859
+1769,"Delhi, India",17-Feb-15,Gold,Entertainment,M,196037
+1770,"Ahmedabad, India",16-Aug-14,Gold,Grocery,M,246068
+1771,"Greater Mumbai, India",01-Dec-14,Silver,Grocery,M,28122
+1772,"Ahmedabad, India",07-Jan-15,Silver,Entertainment,M,170937
+1773,"Ahmedabad, India",06-Oct-14,Gold,Bills,M,127798
+1774,"Ahmedabad, India",08-Jan-14,Signature,Fuel,M,282235
+1775,"Delhi, India",23-Dec-14,Gold,Food,M,40837
+1776,"Bengaluru, India",28-Oct-13,Platinum,Food,M,222217
+1777,"Bengaluru, India",20-Apr-14,Silver,Food,M,253161
+1778,"Ahmedabad, India",02-Oct-14,Signature,Food,M,76255
+1779,"Ahmedabad, India",19-Jul-14,Platinum,Entertainment,F,123724
+1780,"Greater Mumbai, India",20-Oct-14,Signature,Bills,F,172093
+1781,"Ahmedabad, India",02-May-14,Signature,Grocery,M,93499
+1782,"Ahmedabad, India",22-Feb-14,Silver,Fuel,F,31353
+1783,"Greater Mumbai, India",24-Oct-14,Silver,Fuel,F,205830
+1784,"Ahmedabad, India",06-Aug-14,Gold,Entertainment,M,223444
+1785,"Greater Mumbai, India",23-Dec-13,Silver,Food,M,218498
+1786,"Delhi, India",10-Mar-14,Signature,Entertainment,M,8844
+1787,"Bengaluru, India",06-Jan-15,Signature,Food,M,30206
+1788,"Delhi, India",07-Feb-15,Gold,Fuel,F,220520
+1789,"Ahmedabad, India",28-May-14,Signature,Entertainment,F,155034
+1790,"Ahmedabad, India",27-Mar-14,Signature,Grocery,F,118490
+1791,"Ahmedabad, India",26-Nov-13,Platinum,Entertainment,F,198752
+1792,"Greater Mumbai, India",17-Sep-14,Gold,Fuel,F,253590
+1793,"Ahmedabad, India",08-Feb-14,Silver,Entertainment,M,10590
+1794,"Delhi, India",22-Jan-14,Gold,Food,F,125162
+1795,"Bengaluru, India",31-Jan-14,Gold,Food,F,189867
+1796,"Greater Mumbai, India",25-Dec-14,Platinum,Food,F,19194
+1797,"Bengaluru, India",24-May-15,Platinum,Entertainment,F,35372
+1798,"Greater Mumbai, India",03-Jun-14,Platinum,Fuel,F,55506
+1799,"Ahmedabad, India",14-Feb-14,Silver,Fuel,F,195702
+1800,"Ahmedabad, India",25-Jan-14,Gold,Entertainment,F,251030
+1801,"Ahmedabad, India",10-Mar-14,Silver,Food,F,26647
+1802,"Delhi, India",25-Jul-14,Platinum,Entertainment,M,158973
+1803,"Ahmedabad, India",12-Feb-15,Gold,Food,M,193286
+1804,"Delhi, India",19-Jan-14,Signature,Bills,M,220673
+1805,"Bengaluru, India",04-May-14,Gold,Food,F,77839
+1806,"Greater Mumbai, India",19-Feb-15,Platinum,Food,M,119741
+1807,"Greater Mumbai, India",13-May-15,Signature,Fuel,F,234689
+1808,"Delhi, India",22-Jan-14,Signature,Entertainment,M,148983
+1809,"Bengaluru, India",19-Mar-14,Signature,Grocery,F,205574
+1810,"Delhi, India",20-Dec-13,Platinum,Grocery,F,207347
+1811,"Ahmedabad, India",21-Oct-14,Gold,Fuel,F,121717
+1812,"Bengaluru, India",07-Oct-13,Gold,Bills,M,152070
+1813,"Bengaluru, India",05-Oct-14,Gold,Food,M,106635
+1814,"Greater Mumbai, India",14-Feb-14,Platinum,Grocery,M,129505
+1815,"Ahmedabad, India",12-Oct-14,Gold,Fuel,M,4473
+1816,"Delhi, India",04-Nov-13,Signature,Entertainment,M,253025
+1817,"Ahmedabad, India",18-Oct-13,Gold,Fuel,F,12595
+1818,"Delhi, India",09-Feb-15,Platinum,Entertainment,M,198327
+1819,"Bengaluru, India",19-Feb-14,Gold,Food,F,34901
+1820,"Ahmedabad, India",26-Apr-14,Gold,Bills,M,261919
+1821,"Bengaluru, India",10-Oct-13,Silver,Grocery,M,291694
+1822,"Ahmedabad, India",27-Sep-14,Platinum,Bills,M,7005
+1823,"Greater Mumbai, India",09-Apr-14,Silver,Fuel,F,250063
+1824,"Greater Mumbai, India",12-Mar-15,Platinum,Bills,F,7651
+1825,"Ahmedabad, India",24-Jun-14,Platinum,Entertainment,M,81687
+1826,"Bengaluru, India",16-Jul-14,Silver,Entertainment,M,193468
+1827,"Greater Mumbai, India",24-May-14,Platinum,Grocery,F,246966
+1828,"Ahmedabad, India",04-Dec-14,Silver,Bills,F,231689
+1829,"Delhi, India",24-Jan-15,Silver,Entertainment,M,234732
+1830,"Delhi, India",10-Apr-14,Silver,Entertainment,M,219872
+1831,"Delhi, India",01-Feb-15,Platinum,Food,F,270076
+1832,"Delhi, India",16-Jul-14,Gold,Fuel,F,151781
+1833,"Ahmedabad, India",26-Nov-14,Silver,Food,F,298885
+1834,"Greater Mumbai, India",18-Apr-14,Signature,Bills,F,58875
+1835,"Greater Mumbai, India",14-Apr-14,Signature,Bills,M,22806
+1836,"Bengaluru, India",10-Jan-15,Signature,Fuel,M,29264
+1837,"Delhi, India",14-Apr-15,Platinum,Bills,F,297594
+1838,"Greater Mumbai, India",30-Dec-14,Gold,Bills,M,38496
+1839,"Ahmedabad, India",22-Jul-14,Silver,Food,F,115647
+1840,"Greater Mumbai, India",15-May-14,Silver,Food,F,149343
+1841,"Greater Mumbai, India",09-Apr-15,Gold,Fuel,M,270207
+1842,"Delhi, India",05-May-14,Platinum,Bills,F,186358
+1843,"Ahmedabad, India",01-May-15,Silver,Fuel,M,263095
+1844,"Delhi, India",05-Nov-14,Platinum,Entertainment,F,232431
+1845,"Delhi, India",18-Nov-14,Platinum,Fuel,F,244009
+1846,"Delhi, India",13-Apr-14,Silver,Fuel,F,79325
+1847,"Bengaluru, India",12-Jul-14,Gold,Food,M,293135
+1848,"Greater Mumbai, India",29-Dec-14,Silver,Bills,M,119718
+1849,"Delhi, India",18-Feb-15,Signature,Grocery,M,104974
+1850,"Greater Mumbai, India",08-Sep-14,Signature,Bills,F,75066
+1851,"Delhi, India",19-May-15,Signature,Bills,M,188614
+1852,"Greater Mumbai, India",21-Nov-13,Silver,Bills,M,42528
+1853,"Ahmedabad, India",12-Nov-13,Platinum,Entertainment,M,128597
+1854,"Bengaluru, India",06-May-14,Signature,Grocery,M,211054
+1855,"Ahmedabad, India",02-Apr-15,Platinum,Food,M,62692
+1856,"Greater Mumbai, India",11-Apr-15,Signature,Fuel,M,269088
+1857,"Ahmedabad, India",28-Nov-13,Platinum,Bills,F,243298
+1858,"Greater Mumbai, India",25-May-15,Signature,Fuel,M,7550
+1859,"Ahmedabad, India",20-Jan-15,Signature,Food,F,1265
+1860,"Bengaluru, India",30-Oct-14,Gold,Entertainment,M,151670
+1861,"Greater Mumbai, India",09-Feb-14,Signature,Fuel,M,73379
+1862,"Bengaluru, India",22-Nov-14,Platinum,Fuel,M,252255
+1863,"Greater Mumbai, India",29-Mar-14,Silver,Bills,M,38740
+1864,"Bengaluru, India",31-Aug-14,Platinum,Entertainment,F,110968
+1865,"Bengaluru, India",26-Mar-15,Silver,Entertainment,M,33371
+1866,"Ahmedabad, India",09-Dec-14,Silver,Bills,M,182309
+1867,"Delhi, India",22-Jul-14,Gold,Food,M,112558
+1868,"Bengaluru, India",02-Jan-14,Signature,Grocery,F,299040
+1869,"Greater Mumbai, India",31-Mar-15,Signature,Entertainment,F,159141
+1870,"Bengaluru, India",20-Jan-14,Platinum,Fuel,M,207078
+1871,"Bengaluru, India",06-Jan-15,Signature,Food,M,232635
+1872,"Delhi, India",04-Feb-14,Platinum,Bills,M,144398
+1873,"Bengaluru, India",31-Jan-14,Platinum,Fuel,M,265531
+1874,"Delhi, India",02-Feb-15,Gold,Grocery,F,188143
+1875,"Ahmedabad, India",28-Dec-14,Signature,Entertainment,M,79970
+1876,"Bengaluru, India",05-Jan-14,Gold,Entertainment,M,207831
+1877,"Bengaluru, India",06-Jul-14,Signature,Fuel,M,226486
+1878,"Greater Mumbai, India",22-Dec-13,Silver,Food,M,47247
+1879,"Ahmedabad, India",15-Jun-14,Signature,Food,M,198530
+1880,"Bengaluru, India",06-Sep-14,Signature,Bills,F,88293
+1881,"Bengaluru, India",03-Mar-15,Platinum,Bills,M,257118
+1882,"Ahmedabad, India",04-May-14,Platinum,Fuel,F,176991
+1883,"Delhi, India",06-Mar-15,Signature,Fuel,F,15025
+1884,"Ahmedabad, India",19-Nov-13,Platinum,Bills,F,239453
+1885,"Delhi, India",27-Apr-15,Gold,Fuel,F,98236
+1886,"Delhi, India",23-Jan-14,Signature,Fuel,F,144517
+1887,"Ahmedabad, India",16-May-14,Gold,Grocery,F,278516
+1888,"Greater Mumbai, India",11-Dec-13,Silver,Bills,M,213719
+1889,"Ahmedabad, India",16-Mar-15,Silver,Grocery,F,167523
+1890,"Greater Mumbai, India",10-May-15,Silver,Grocery,F,44230
+1891,"Ahmedabad, India",23-Nov-14,Signature,Bills,M,182212
+1892,"Greater Mumbai, India",24-Sep-14,Silver,Entertainment,M,43419
+1893,"Ahmedabad, India",06-Feb-15,Platinum,Food,F,117563
+1894,"Bengaluru, India",02-Feb-15,Platinum,Fuel,M,114853
+1895,"Delhi, India",24-Feb-15,Silver,Fuel,F,54894
+1896,"Delhi, India",04-Jan-15,Gold,Entertainment,F,93929
+1897,"Ahmedabad, India",21-Mar-14,Signature,Bills,F,161580
+1898,"Ahmedabad, India",08-Nov-13,Platinum,Bills,F,54090
+1899,"Greater Mumbai, India",24-Oct-13,Gold,Food,M,9201
+1900,"Delhi, India",27-Dec-13,Gold,Fuel,M,18133
+1901,"Ahmedabad, India",07-Mar-15,Signature,Bills,F,39007
+1902,"Bengaluru, India",12-Dec-13,Signature,Grocery,M,188819
+1903,"Bengaluru, India",11-Feb-15,Signature,Bills,M,217968
+1904,"Ahmedabad, India",12-Nov-14,Signature,Grocery,M,228427
+1905,"Delhi, India",12-Aug-14,Platinum,Bills,F,154256
+1906,"Greater Mumbai, India",15-Mar-15,Silver,Entertainment,F,254603
+1907,"Ahmedabad, India",13-Aug-14,Signature,Food,F,103568
+1908,"Delhi, India",06-Nov-13,Platinum,Fuel,M,12638
+1909,"Ahmedabad, India",08-Feb-14,Gold,Food,M,4737
+1910,"Greater Mumbai, India",24-Apr-14,Gold,Bills,F,152667
+1911,"Ahmedabad, India",15-Mar-15,Gold,Grocery,M,58143
+1912,"Bengaluru, India",26-Apr-15,Silver,Food,F,173178
+1913,"Bengaluru, India",11-Jan-15,Platinum,Fuel,M,126079
+1914,"Bengaluru, India",20-Mar-14,Silver,Entertainment,M,49976
+1915,"Greater Mumbai, India",23-Oct-13,Signature,Food,F,183818
+1916,"Ahmedabad, India",18-Jan-15,Silver,Grocery,M,202671
+1917,"Greater Mumbai, India",11-Jul-14,Signature,Grocery,M,19014
+1918,"Greater Mumbai, India",02-Apr-14,Platinum,Grocery,F,136271
+1919,"Greater Mumbai, India",14-May-15,Platinum,Food,F,61427
+1920,"Ahmedabad, India",23-Mar-14,Gold,Bills,M,226543
+1921,"Ahmedabad, India",13-Feb-14,Silver,Entertainment,F,85013
+1922,"Ahmedabad, India",25-Mar-15,Platinum,Food,F,44844
+1923,"Greater Mumbai, India",28-Jan-14,Silver,Grocery,F,127077
+1924,"Bengaluru, India",28-Dec-13,Gold,Grocery,F,18848
+1925,"Delhi, India",16-Apr-15,Gold,Grocery,F,36672
+1926,"Bengaluru, India",16-Jan-15,Platinum,Food,M,282707
+1927,"Ahmedabad, India",01-Feb-15,Gold,Fuel,M,233207
+1928,"Delhi, India",18-Dec-14,Gold,Bills,M,59017
+1929,"Delhi, India",24-Dec-13,Gold,Food,M,146258
+1930,"Ahmedabad, India",28-Nov-14,Silver,Entertainment,M,56636
+1931,"Ahmedabad, India",18-Apr-14,Signature,Entertainment,F,257567
+1932,"Ahmedabad, India",27-May-14,Gold,Food,M,292393
+1933,"Bengaluru, India",24-Nov-13,Gold,Food,F,96794
+1934,"Bengaluru, India",19-Feb-15,Platinum,Grocery,M,100624
+1935,"Greater Mumbai, India",18-Nov-13,Gold,Entertainment,F,192109
+1936,"Ahmedabad, India",07-Oct-14,Platinum,Grocery,M,191123
+1937,"Ahmedabad, India",13-Jun-14,Platinum,Grocery,F,57211
+1938,"Bengaluru, India",26-Mar-15,Gold,Fuel,M,49831
+1939,"Bengaluru, India",21-Feb-14,Signature,Bills,M,212005
+1940,"Greater Mumbai, India",07-Nov-14,Signature,Entertainment,F,51790
+1941,"Delhi, India",30-Jul-14,Signature,Entertainment,F,108940
+1942,"Bengaluru, India",15-Apr-14,Gold,Food,F,102525
+1943,"Greater Mumbai, India",11-Nov-14,Signature,Entertainment,M,134427
+1944,"Bengaluru, India",09-Oct-14,Silver,Bills,F,41516
+1945,"Bengaluru, India",04-May-15,Gold,Grocery,F,267301
+1946,"Ahmedabad, India",03-Aug-14,Platinum,Food,F,116820
+1947,"Delhi, India",19-Dec-14,Platinum,Grocery,M,27737
+1948,"Greater Mumbai, India",05-Dec-14,Gold,Fuel,F,209099
+1949,"Greater Mumbai, India",02-Dec-13,Silver,Bills,M,121028
+1950,"Ahmedabad, India",19-Dec-13,Platinum,Food,M,213569
+1951,"Bengaluru, India",08-Dec-13,Signature,Bills,M,90354
+1952,"Delhi, India",19-Jul-14,Platinum,Food,M,147537
+1953,"Greater Mumbai, India",07-Aug-14,Silver,Grocery,M,216726
+1954,"Bengaluru, India",07-Aug-14,Gold,Fuel,F,122681
+1955,"Bengaluru, India",20-Sep-14,Platinum,Entertainment,M,267612
+1956,"Ahmedabad, India",21-Mar-15,Platinum,Food,M,229864
+1957,"Ahmedabad, India",01-Jan-14,Platinum,Fuel,F,24200
+1958,"Delhi, India",25-May-14,Gold,Fuel,M,122144
+1959,"Ahmedabad, India",24-Feb-15,Silver,Fuel,M,112789
+1960,"Bengaluru, India",29-Jan-14,Silver,Fuel,F,172814
+1961,"Bengaluru, India",05-Nov-13,Silver,Entertainment,F,246465
+1962,"Bengaluru, India",22-Nov-14,Gold,Food,F,199156
+1963,"Bengaluru, India",15-Sep-14,Silver,Food,F,285661
+1964,"Greater Mumbai, India",06-Aug-14,Gold,Grocery,M,188349
+1965,"Bengaluru, India",02-Dec-14,Platinum,Bills,F,232774
+1966,"Ahmedabad, India",01-Sep-14,Signature,Grocery,M,136601
+1967,"Delhi, India",14-Nov-14,Gold,Grocery,F,119657
+1968,"Bengaluru, India",06-Aug-14,Signature,Fuel,F,64742
+1969,"Delhi, India",11-Oct-13,Platinum,Entertainment,M,44863
+1970,"Bengaluru, India",27-Jul-14,Signature,Fuel,M,39444
+1971,"Bengaluru, India",13-Apr-14,Gold,Entertainment,M,180453
+1972,"Delhi, India",01-Jul-14,Platinum,Entertainment,F,260518
+1973,"Delhi, India",08-Jan-14,Silver,Food,F,100623
+1974,"Ahmedabad, India",31-Aug-14,Platinum,Food,M,278519
+1975,"Greater Mumbai, India",06-May-14,Platinum,Entertainment,F,277363
+1976,"Bengaluru, India",26-May-15,Signature,Food,M,268608
+1977,"Ahmedabad, India",09-Apr-15,Silver,Entertainment,F,61315
+1978,"Greater Mumbai, India",16-Mar-14,Gold,Entertainment,F,78371
+1979,"Ahmedabad, India",01-Jun-14,Platinum,Grocery,M,252284
+1980,"Greater Mumbai, India",17-Apr-14,Signature,Bills,F,80553
+1981,"Greater Mumbai, India",10-May-15,Platinum,Fuel,M,260680
+1982,"Ahmedabad, India",31-Oct-13,Silver,Fuel,M,292832
+1983,"Bengaluru, India",15-Jul-14,Signature,Fuel,F,30808
+1984,"Ahmedabad, India",05-Jan-14,Signature,Entertainment,M,72559
+1985,"Ahmedabad, India",28-Jul-14,Platinum,Grocery,F,67804
+1986,"Delhi, India",28-Dec-13,Platinum,Food,F,230609
+1987,"Greater Mumbai, India",23-Oct-13,Platinum,Entertainment,M,58406
+1988,"Ahmedabad, India",06-May-15,Silver,Entertainment,M,208720
+1989,"Delhi, India",15-Feb-14,Gold,Food,M,116407
+1990,"Greater Mumbai, India",23-Mar-14,Platinum,Entertainment,M,214301
+1991,"Ahmedabad, India",21-Jul-14,Platinum,Grocery,M,156919
+1992,"Delhi, India",08-Jul-14,Signature,Fuel,F,192912
+1993,"Bengaluru, India",17-Jul-14,Platinum,Bills,F,12036
+1994,"Delhi, India",20-Sep-14,Platinum,Fuel,M,187757
+1995,"Greater Mumbai, India",05-Jan-14,Platinum,Grocery,F,130139
+1996,"Delhi, India",27-Feb-15,Silver,Food,M,163953
+1997,"Ahmedabad, India",11-Nov-14,Silver,Food,F,215613
+1998,"Ahmedabad, India",13-Mar-15,Signature,Grocery,F,64185
+1999,"Bengaluru, India",06-Feb-15,Gold,Fuel,F,247978
